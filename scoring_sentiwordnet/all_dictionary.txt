@@ -1,0 +1,999 @@
+a	00001740	0.125	0	able#1	(usually followed by `to') having the necessary means or skill or know-how or authority to do something; "able to swim"; "she was able to program her computer"; "we were at last able to buy a car"; "able to get a grant for the project"
+a	00032733	0	0	spry#1 quick#3 nimble#1 agile#1	moving quickly and lightly; "sleek and agile as a gymnast"; "as nimble as a deer"; "nimble fingers"; "quick of foot"; "the old dog was so spry it was halfway up the stairs before we could stop it"
+a	00089550	0	0.5	vexing#2 vexatious#1 teasing#3 plaguy#1 plaguey#2 pestiferous#4 pestering#1 pesky#1 nettlesome#1 irritating#1 galling#1 bothersome#1 annoying#1	causing irritation or annoyance; "tapping an annoying rhythm on his glass with his fork"; "aircraft noise is particularly bothersome near the airport"; "found it galling to have to ask permission"; "an irritating delay"; "nettlesome paperwork"; "a pesky mosquito"; "swarms of pestering gnats"; "a plaguey newfangled safety catch"; "a teasing and persistent thought annoyed him"; "a vexatious child"; "it is vexing to have to admit you are wrong"
+a	00170358	0.25	0	appealing#1	able to attract interest or draw favorable attention; "He added an appealing and memorable figure to popular American mythology"- Vincent Starrett; "an appealing sense of humor"; "the idea of having enough money to retire at fifty is very appealing"
+a	00051045	0	0	equal#2 adequate#1	having the requisite qualities or resources to meet a task; "she had adequate training"; "her training was adequate"; "she was adequate to the job"; "he was equal to the task"
+a	00095280	0	0.75	dead#1	no longer having or seeming to have or expecting to have life; "the nerve is dead"; "a dead pallor"; "he was marked as a dead man by the assassin"
+a	00099290	0.5	0	live#2	exerting force or containing energy; "live coals"; "tossed a live cigarette out the window"; "got a shock from a live wire"; "live ore is unmined ore"; "a live bomb"; "a live ball is one in play"
+a	00127137	0	0	previous#1 old#8	just preceding something else in time or order; "the previous owner"; "my old house was larger"
+a	00154270	0	0.5	mortified#2 humiliated#2 embarrassed#2	made to feel uncomfortable because of shame or wounded pride; "too embarrassed to say hello to his drunken father on the street"; "humiliated that his wife had to go out to work"; "felt mortified by the comparison with her sister"
+a	00171044	0.125	0.625	unappealing#2	not able to attract favorable attention; "they have made the place as unappealing as possible"; "was forced to talk to his singularly unappealing hostess"
+a	00175887	0	0	supersonic#1	(of speed) greater than the speed of sound in a given medium (especially air); "a supersonic bomber flies so fast that it must release its bombs while the target is still over the horizon"
+a	00013442	0	0	objective#4	belonging to immediate experience of actual things or events; "objective benefits"; "an objective example"; "there is no objective evidence of anything of the kind"
+a	00049469	0	0	intercalary#1	having a day or month inserted to make the calendar year correspond to the solar year: "Feb. 29 is an intercalary day"; "a leap year is an intercalary year"
+a	00062152	0	0	coordinated#2 co-ordinated#3	being dexterous in the use of more than one set of muscle movements; "she was usually good with her hands and well coordinated"- Mary McCarthy
+a	00067038	0.625	0	advisable#1	worthy of being recommended or suggested; prudent or wise; "such action is neither necessary nor advisable"; "extreme caution is advisable"; "it is advisable to telephone first"
+a	00067379	0.75	0	better#3 best#2	(comparative and superlative of `well') wiser or more advantageous and hence advisable; "it would be better to speak to him"; "the White House thought it best not to respond"
+a	00083478	0	0	hostile#5	unsolicited and resisted by the management of the target company ( used of attempts to buy or take control of a business); "hostile takeover"; "hostile tender offer"; "hostile bid"
+a	00094448	0.125	0	live#3 alive#1	possessing life; "the happiest person alive"; "the nerve is alive"; "doctors are working hard to keep him alive"; "burned alive"; "a live canary"
+a	00099874	0	0.625	dead#2	not showing characteristics of life especially the capacity to sustain life; no longer exerting force or having energy or heat; "Mars is a dead planet"; "dead soil"; "dead coals"; "the fire is dead"
+a	00102578	0.5	0	double-barrelled#2 double-barreled#2	having two purposes; twofold; "our double-barreled desire to make things profitable as well as attractive"- Louis Kronenbergers
+a	00137725	0.75	0	due#3	suitable to or expected in the circumstances; "all due respect"; "due cause to honor them"; "a long due promotion"; "in due course"; "due esteem"; "exercising due care"
+a	00166146	0.875	0	attractive#1	pleasing to the eye or mind especially through beauty or charm; "a remarkably attractive young man"; "an attractive personality"; "attractive clothes"; "a book with attractive illustrations"
+a	00174243	0	0	sounding#3	making or having a sound as specified; used as a combining form; "harsh-sounding"
+a	00183053	0.375	0	available#1	obtainable or accessible and ready for use or service; "kept a fire extinguisher available"; "much information is available through computers"; "available in many colors"; "the list of available candidates is unusually long"
+a	00006336	0	0	absorptive#1 absorbent#1	having power or capacity or tendency to absorb or soak up something (liquids or energy etc.); "as absorbent as a sponge"
+a	00021110	0.75	0	obliging#1 complaisant#1	showing a cheerful willingness to do favors for others; "to close one's eyes like a complaisant husband whose wife has taken a lover"; "the obliging waiter was in no hurry for us to leave"
+a	00021403	0.25	0.25	unobliging#1 unaccommodating#1	not accommodating; "the unaccommodating bus driver pulled out while she was banging on the door"
+a	00024619	0	0.375	wont_to#1 used_to#1	in the habit; "I am used to hitchhiking"; "you'll get used to the idea"; "...was wont to complain that this is a cold world"- Henry David Thoreau
+a	00029343	0	0	acquisitive#1	eager to acquire and possess things especially material possessions or ideas; "an acquisitive mind"; "an acquisitive society in which the craving for material things seems never satisfied"
+a	00082241	0.5	0	aggressive#1	having or showing determination and energetic pursuit of your ends; "an aggressive businessman"; "an aggressive basketball player"; "he was aggressive and imperious; positive in his convictions"; "aggressive drivers"
+a	00099097	0	0.125	subartesian#1	(of water) rising naturally in a well to a height appreciably above that of the surrounding water table but not flowing out of the well
+a	00100989	0	0	alphabetized#1 alphabetised#1	having been put in alphabetical order; "the cards are all alphabetized, as you requested"
+a	00105388	0	0.25	ametropic#1	of or relating to an abnormal condition of the eye in which visual images are not in focus on the retina
+a	00105566	0	0	emmetropic#1	of or relating to the normal condition of the eye in which visual images are in clear focus on the retina
+a	00106020	0	0	good#2 full#6	having the normally expected amount; "gives full measure"; "gives good measure"; "a good mile from here"
+a	00111604	0	0	isolating#1	relating to or being a language in which each word typically expresses a distinct idea and part of speech and syntactical relations are determined almost exclusively by word order and particles
+a	00112628	0	0	synthetical#1 synthetic#2	involving or of the nature of synthesis (combining separate elements to form a coherent whole) as opposed to analysis; "limnology is essentially a synthetic science composed of elements...that extend well beyond the limits of biology"- P.S.Welch
+a	00118567	0.375	0	animated#1 alive#3	having life or vigor or spirit; "an animated and expressive face"; "animated conversation"; "became very animated when he heard the good news"
+a	00133065	0	0.5	unappealable#1	not subject to appeal; "the judge's ruling was handed down in a preliminary hearing rather than a trial and was therefore unappealable"
+a	00134701	0	0	appropriate#1	suitable for a particular person or place or condition etc; "a book not appropriate for children"; "a funeral conducted the appropriate solemnity"; "it seems that an apology is appropriate"
+a	00135455	0	0	right#6 proper#4	appropriate for a condition or purpose or occasion or a person's character, needs; "everything in its proper place"; "the right man for the job"; "she is not suitable for the position"
+a	00167278	0.5	0	cute#1 cunning#1	attractive especially by means of smallness or prettiness or quaintness; "a cute kid with pigtails"; "a cute little apartment"; "cunning kittens"; "a cunning baby"
+a	00168188	0.375	0	spellbinding#1 mesmerizing#1 mesmeric#1 hypnotic#2	attracting and holding interest as if by a spell; "read the bedtime story in a hypnotic voice"; "she had a warm mesmeric charm"; "the sheer force of his presence was mesmerizing"; "a spellbinding description of life in ancient Rome"
+a	00170847	0.375	0	attractive#2	having power to arouse interest; "an attractive opportunity"; "the job is attractive because of the pay"
+a	00171872	0	0.25	referable#1 imputable#1 due#4 ascribable#1	capable of being assigned or credited to; "punctuation errors ascribable to careless proofreading"; "the cancellation of the concert was due to the rain"; "the oversight was not imputable to him"
+a	00173220	0	0	pregnant#1	carrying developing offspring within the body or being about to produce new life
+a	00177547	0.75	0	prosperous#4 lucky#3 golden#6 favourable#4 favorable#3	presaging or likely to bring good luck; "a favorable time to ask for a raise"; "lucky stars"; "a prosperous moment to make a decision"
+a	00002098	0	0.75	unable#1	(usually followed by `to') not having the necessary means or skill or know-how; "unable to get to town without a car"; "unable to obtain funds"
+a	00002527	0	0	ventral#2 adaxial#1	nearest to or facing toward the axis of an organ or organism; "the upper side of a leaf is known as the adaxial surface"
+a	00006245	0	0	relational#1	having a relation or being related
+a	00007516	0	0	spongy#2 spongelike#2	like a sponge in being able to absorb liquids and yield it back when compressed
+a	00009046	0	0	abstemious#1	sparing in consumption of especially food and drink; "the pleasures of the table, never of much consequence to one naturally abstemious"- John Galsworthy
+a	00009618	0.5	0.25	spartan#4 austere#3 ascetical#2 ascetic#2	practicing great self-denial; "Be systematically ascetic...do...something for no other reason than that you would rather not do it"- William James; "a desert nomad's austere life"; "a spartan diet"; "a spartan existence"
+a	00012362	0.375	0.25	conceptual#1	being or characterized by concepts or their formation; "conceptual discussions"; "the schizophrenic loses ability to abstract or do conceptual thinking"; "sex is a notional category, gender is a grammatical category"
+a	00013160	0.625	0.25	concrete#1	capable of being perceived by the senses; not abstract or imaginary; "concrete objects such as trees"
+a	00013662	0	0	tangible#2 real#4	capable of being treated as fact; "tangible evidence"; "his brief time as Prime Minister brought few real benefits to the poor"
+a	00015589	0.125	0.375	long#9	having or being more than normal or necessary:"long on brains"; "in long supply"
+a	00018850	0	0.375	objectionable#2 exceptionable#1	liable to objection or debate; used of something one might take exception to; "a thoroughly unpleasant highly exceptionable piece of writing"; "found the politician's views objectionable"
+a	00019505	0.625	0	getatable#1 get-at-able#1 come-at-able#2	capable of being reached or attained; "a very getatable man"; "both oil and coal are there but not in getatable locations"
+a	00019874	0.5	0.125	unaccessible#1 inaccessible#1	capable of being reached only with great difficulty or not at all
+a	00020787	0.5	0	accommodative#1 accommodating#1	helpful in bringing about a harmonious adaptation; "the warden was always accommodating in allowing visitors in"; "made a special effort to be accommodating"
+a	00023854	0.125	0.75	wrong#9 incorrect#4 faulty#2	characterized by errors; not agreeing with a model or not following established rules; "he submitted a faulty report"; "an incorrect transcription"; the wrong side of the road"
+a	00024241	0	0.625	wide_of_the_mark#1 wide#7	not on target; "the kick was wide"; "the arrow was wide of the mark"; "a claim that was wide of the truth"
+a	00028867	0	0.375	unvalued#1 unsung#2 unappreciated#2	having value that is not acknowledged
+a	00029933	0	0	prehensile#3 greedy#1 grasping#1 grabby#1 covetous#2 avaricious#1	immoderately desirous of acquiring e.g. wealth; "they are avaricious and will do anything for money"; "casting covetous eyes on his neighbor's fields"; "a grasping old miser"; "grasping commercialism"; "greedy for money and power"; "grew richer and greedier"; "prehensile employers stingy with raises for their employees"
+a	00030508	0	0	possessive#2	desirous of owning; "small children are so possessive they will not let others play with their toys"
+a	00031974	0.5	0.125	active#5	characterized by energetic activity; "an active toddler"; "active as a gazelle"; "an active man is a man of action"
+a	00041488	0.5	0	live#11 alive#7	capable of erupting; "a live volcano"; "the volcano is very much alive"
+a	00047653	0.5	0	clean#18	free of drugs; "after a long dependency on heroin she has been clean for 4 years"
+a	00062740	0	0	nimble-fingered#1 light-fingered#1	having nimble fingers literally or figuratively; especially for stealing or picking pockets; "a light-fingered burglar who can crack the combination of a bank vault"- Harry Hansen; "the light-fingered thoughtfulness...of the most civilized playwright of the era"- Time
+a	00063563	0.125	0.75	left-handed#6 heavy-handed#1 handless#2 ham-handed#1 ham-fisted#1 butterfingered#1 bungling#2 bumbling#1	lacking physical movement skills, especially with the hands; "a bumbling mechanic"; "a bungling performance"; "ham-handed governmental interference"; "could scarcely empty a scuttle of ashes, so handless was the poor creature"- Mary H. Vorse
+a	00063953	0.5	0.125	tactless#2 inept#3	revealing lack of perceptiveness or judgment or finesse; "an inept remark"; "it was tactless to bring up those disagreeable"
+a	00071739	0.125	0.5	taken#2	be affected with an indisposition; "the child was taken ill"; "couldn't tell when he would be taken drunk"
+a	00076127	0.375	0.125	accepting#1	tolerating without protest; "always more accepting of coaching suggestion than her teammates"; "the atmosphere was judged to be more supporting and accepting"
+a	00084353	0.25	0	rough#7 pugnacious#2	ready and able to resort to force or violence; "pugnacious spirits...lamented that there was so little prospect of an exhilarating disturbance"- Herman Melville; "they were rough and determined fighting men"
+a	00096072	0	0	assassinated#1	murdered by surprise attack for political reasons; "the 20th century has seen too many assassinated leaders"
+a	00100213	0	0.125	out#2 extinct#3	being out or having grown cold; "threw his extinct cigarette into the stream"; "the fire is out"
+a	00101152	0	0.125	analphabetic#2	not alphabetic; "an analphabetic arrangement of letters"; "Jesperson's system of phonetic transcription is analphabetic"
+a	00108698	0	0	astigmatic#1	of or relating to a defect in the eye or in a lens caused by a deviation from spherical curvature which prevents light rays from meeting at a common focus and so results in distorted images
+a	00110853	0.125	0	analytical#2 analytic#4	of a proposition that is necessarily true independent of fact or experience; "`all spinsters are unmarried' is an analytic proposition"
+a	00111129	0	0	synthetical#2 synthetic#4	of a proposition whose truth value is determined by observation or facts; "`all men are arrogant' is a synthetic proposition"
+a	00113015	0.125	0.125	inflectional#1	characterized by inflections indicating grammatical distinctions; "inflectional morphology is used to indicate number and case and tense and person etc."
+a	00113245	0	0.25	derivational#1	characterized by inflections indicating a semantic relation between a word and its base; "the morphological relation between `sing' and `singer' and `song' is derivational"
+a	00119533	0.25	0	lifeless#3	lacking animation or excitement or activity; "the party being dead we left early"; "it was a lifeless party until she arrived"
+a	00119993	0.875	0	perked_up#1	made or become more cheerful or lively; "his attention made her feel all perked up"
+a	00130778	0	0	anterior#1	of or near the head end or toward the front plane of a body
+a	00140542	0.125	0	columned#1	having or resembling columns; having columns of a specified kind (often used as a combining form); "a columned portico"; "trees with columned trunks"; "white-columned houses"
+a	00144244	0	0	lightly_armoured#1 lightly_armored#1	equipped with armor heavy enough to provide protection against fire from light arms
+a	00146210	0	0	armed#2	having arms or arms as specified; used especially in combination; "the many-armed goddess Shiva"
+a	00155886	0	0.375	unembarrassed#1 unabashed#1	not embarrassed; "a tinseled charm and unabashed sentimentality"- Jerome Stone; "an unembarrassed greeting as if nothing untoward had happened"
+a	00157080	0.25	0.375	nonassertive#1	not aggressively self-assured, though not necessarily lacking in confidence; "she was quiet and nonassertive as she took control"
+a	00161276	0.5	0.25	unstuck#1	free; "a man with a mule got my car unstuck"; "the gears locked in second and would not come unstuck"
+a	00162990	0.125	0.625	unwary#1	not alert to danger or deception; "the shrieks of unwary animals taken by surprise"; "some thieves prey especially on unwary travelers"; "seduce the unwary reader into easy acquiescence"- O.J.Campbell
+a	00172308	0	0	traceable#1	(usually followed by `to') able to be traced to; "a failure traceable to lack of energy"
+a	00172774	0	0	attributive_genitive#1	a word in the genitive case used as an attributive adjective; "an example of the attributive genitive is `John's' in `John's mother'"
+a	00175123	0	0.625	unsounded#2 silent#4	not made to sound; "the silent `h' at the beginning of `honor'"; "in French certain letters are often unsounded"
+a	00175528	0	0	transonic#1 sonic#1	(of speed) having or caused by speed approximately equal to that of sound in air at sea level; "a sonic boom"
+a	00179315	0	0	sceptred#1 sceptered#1 empowered#1	invested with legal power or official authority especially as symbolized by having a scepter
+a	00184075	0.125	0	easy#11	less in demand and therefore readily obtainable; "commodities are easy this quarter"
+a	00002312	0	0	dorsal#2 abaxial#1	facing away from the axis of an organ or organism; "the abaxial surface of a leaf is the underside or side facing away from the stem"
+a	00003131	0	0	adductive#1 adducting#1 adducent#1	especially of muscles; bringing together or drawing toward the midline of the body or toward an adjacent part
+a	00003700	0.25	0	dissilient#1	bursting open with force, as do some ripe seed vessels
+a	00005839	0.5	0.125	living#3	(informal) absolute; "she is a living doll"; "scared the living daylights out of them"; "beat the living hell out of him"
+a	00007331	0	0	shock-absorbent#1	having the capacity to absorb the energy of an impact; "the material absorbs shock and is used for shock-absorbent insoles"
+a	00007697	0	0	thirsty#4	able to take in large quantities of moisture; "thirsty towels"
+a	00011757	0	0	abstract#1	existing only in the mind; separated from embodiment; "abstract words like `truth' and `justice'"
+a	00012689	0	0	ideal#2	constituting or existing only in the form of an idea or mental image or conception; "a poem or essay may be typical of its period in idea or ideal content"
+a	00012932	0.125	0.125	ideological#2 ideologic#1	concerned with or suggestive of ideas; "ideological application of a theory"; "the drama's symbolism was very ideological"
+a	00015480	0	0.5	thick#10	abounding; having a lot of; "the top was thick with dust"
+a	00018222	0.25	0.625	unimpeachable#3 unexceptionable#1	completely acceptable; not open to exception or reproach; "two unexceptionable witnesses"; "a judge's ethics should be unexceptionable"
+a	00018584	0.125	0.375	unacceptable#2	not acceptable; not welcome; "a word unacceptable in polite society"; "an unacceptable violation of personal freedom"
+a	00021766	0.5	0	accurate#1	conforming exactly or almost exactly to fact or to a standard or performing with total accuracy; "an accurate reproduction"; "the accounting was accurate"; "accurate measurements"; "an accurate scale"
+a	00022437	0.625	0.25	dead-on#1	accurate and to the point; "a dead-on feel for characterization"; "She avoids big scenes...preferring to rely on small gestures and dead-on dialogue"- Peter S.Prescott
+a	00025238	0	0.125	acidic#1	being or containing an acid; of a solution having an excess of hydrogen atoms (having a pH of less than 7)
+a	00031533	0	0.5	unacquisitive#1	not acquisitive; not interested in acquiring or owning anything
+a	00036879	0.25	0	dead#17	devoid of activity; "this is a dead town; nothing ever happens here"
+a	00040058	0	0.75	unresisting#1 supine#2 resistless#2	offering no resistance; "resistless hostages"; "No other colony showed such supine, selfish helplessness in allowing her own border citizens to be mercilessly harried"- Theodore Roosevelt
+a	00042228	0	0	passive#3	expressing that the subject of the sentence is the patient of the action denoted by the verb; "academics seem to favor passive sentences"
+a	00043615	0	0.5	quiet#6	of the sun characterized by a low level of surface phenomena like sunspots e.g.
+a	00047954	0.25	0.5	nonaddictive#1	not causing or characterized by addiction; "for years tobacco companies have contended that tobacco is nonaddictive"
+a	00048858	0	0	extra#3 additional#1	further or added; "called for additional troops"; "need extra help"; "an extra pair of shoes"
+a	00051373	0.375	0.25	up_to#2 equal_to#1 capable#4 adequate_to#1	having the requisite qualities for; "equal to the task"; "the work isn't up to the standard I require"
+a	00051696	0	0.5	unequal#2 inadequate#1	lacking the requisite qualities or resources to meet a task; "inadequate training"; "the staff was inadequate"; "she was unequal to the task"
+a	00064787	0.625	0	good#5 beneficial#1	promoting or enhancing well-being; "an arms limitation agreement beneficial to all countries"; "the beneficial effects of a temperate climate"; "the experience was good for her"
+a	00067767	0.125	0.625	unadvisable#1 inadvisable#1	not prudent or wise; not recommended; "running on the ice is inadvisable"
+a	00067966	0.5	0	well-advised#1 advised#1	having the benefit of careful prior consideration or counsel; "a well-advised delay in carrying out the plan"
+a	00071559	0	0.625	subject#3	likely to be affected by something; "the bond is subject to taxation"; "he is subject to fits of depression"
+a	00080698	0	0.75	numb#3	so frightened as to be unable to move; stunned or paralyzed with terror; petrified; "too numb with fear to move"
+a	00085630	0.25	0.5	worked_up#1 excited#1 emotional#4 aroused#6	(of persons) excessively affected by emotion; "he would become emotional over nothing at all"; "she was worked up about all the noise"
+a	00091311	0.5	0	watchful#1 alert#1	engaged in or accustomed to close observation; "caught by a couple of alert cops"; "alert enough to spot the opportunity when it came"; "constantly alert and vigilant, like a sentinel on duty"
+a	00092391	0.125	0.375	sleepless#2 lidless#3	always watchful; "to an eye like mine, a lidless watcher of the public weal"- Alfred Tennyson
+a	00100506	0	0	out_of_play#1	(of a ball) "a ball that is out of play is dead"
+a	00103696	0.375	0	unambiguous#1	having or exhibiting a single clearly defined meaning; "As a horror, apartheid...is absolutely unambiguous"- Mario Vargas Llosa
+a	00105746	0	0	ample#1	more than enough in size or scope or capacity; "had ample food for the party"; "an ample supply"
+a	00109782	0	0	katabatic#1 catabatic#1	of an air current or wind; moving downward or down a slope because of cooling especially at night
+a	00113476	0	0	apocarpous#1	(of ovaries of flowering plants) consisting of carpels that are free from one another as in buttercups or roses
+a	00115193	0.125	0	sore#3 mad#1 huffy#2	roused to anger; "stayed huffy a good while"- Mark Twain; "she gets mad when you wake her up so early"; "mad at his friend"; "sore over a remark"
+a	00116529	0	0.875	resentful#1	full of or marked by resentment or indignant ill will; "resentful at the way he was treated"; "a sullen resentful attitude"
+a	00118066	0	0	animate#2	endowed with animal life as distinguished from plant life; "we are animate beings"
+a	00118238	0	0.75	nonliving#1 non-living#1 inanimate#2	not endowed with life; "the inorganic world is inanimate"; "inanimate objects"
+a	00119006	0.375	0.25	vital#3 lively#6 full_of_life#1	full of spirit; "a dynamic full of life woman"; "a vital and charismatic leader"; "this whole lively world"
+a	00120132	0	0.625	unenlivened#1	not made lively or brightened; "a life unenlivened by romance"
+a	00120252	0	0	animate#1	belonging to the class of nouns that denote living beings; "the word `dog' is animate"
+a	00120411	0	0	inanimate#1	belonging to the class of nouns denoting nonliving things; "the word `car' is inanimate"
+a	00124077	0	0	aquatic#2	operating or living or growing in water; "boats are aquatic vehicles"; "water lilies are aquatic plants"; "fish are aquatic animals"
+a	00125553	0	0	semiaquatic#1 amphibiotic#1	having an aquatic early or larval form and a terrestrial adult form
+a	00126235	0	0	foregoing#1	especially of writing or speech; going before
+a	00128733	0	0.625	unexampled#1 new#4	having no previous example or precedent or parallel; "a time of unexampled prosperity"
+a	00132127	0	0	dorsal#1	belonging to or on or near the back or upper surface of an animal or organ or part; "the dorsal fin is the vertical fin on the back of a fish and certain marine mammals"
+a	00132385	0	0	ventral#1	toward or on or near the belly (front of a primate or lower surface of a lower animal); "the ventral aspect of the human body"; "the liver is somewhat ventral in position"; "ventral (or pelvic) fins correspond to the hind limbs of a quadruped"
+a	00132849	0.5	0	appealable#1	capable of being appealed especially to a higher tribunal; "decisions...appealable to the head of the agency"- New Republic
+a	00134060	0	0	approachable#2	easy to meet or converse or do business with; "a friendly approachable person"
+a	00135718	0.125	0.75	inappropriate#1	not suitable for a particular occasion etc; "noise seems inappropriate at a time of sadness"; "inappropriate shoes for a walk on the beach"; "put inappropriate pressure on them"
+a	00136884	0.125	0.125	payable#1 collectible#1 collectable#1	subject to or requiring payment especially as specified; "a collectible bill"; "a note payable on demand"; "a check payable to John Doe"
+a	00137943	0	0.625	undue#2	not appropriate or proper (or even legal) in the circumstances; "undue influence"; "I didn't want to show undue excitement"; "accused of using undue force"
+a	00139702	0.375	0	pseudoprostyle#1 prostyle#1	marked by columniation having free columns in a portico only across the opening to the structure
+a	00142917	0	0.5	unarmed#1	(used of persons or the military) not having or using arms; "went alone and unarmed"; "unarmed peasants were shot down"; "unarmed vehicles"
+a	00147160	0	0	scaly#2 scaley#1 scaled#1	having the body covered or partially covered with thin horny plates, as some fish and reptiles
+a	00150202	0.125	0.5	articulate#1	expressing yourself easily or characterized by clear expressive language; "articulate speech"; "an articulate orator"; "articulate beings"
+a	00153083	0	0.25	tongued#2	having a manner of speaking as specified; often used in combination; "golden-tongued"; "sharp-tongued"
+a	00153239	0	0.5	walk-on#1 nonspeaking#1	not capable of or especially not involving speech or spoken lines; "had a nonspeaking role in the play"
+a	00153652	0	0.625	unarticulated#1	not consisting of segments that are held together by joints
+a	00154965	0.25	0.25	unashamed#1	used of persons or their behavior; feeling no shame
+a	00155144	0.75	0.125	insolent#2 brazen-faced#1 brazen#1 brassy#3 bodacious#2 barefaced#2 bald-faced#2 audacious#2	unrestrained by convention or propriety; "an audacious trick to pull"; "a barefaced hypocrite"; "the most bodacious display of tourism this side of Anaheim"- Los Angeles Times; "bald-faced lies"; "brazen arrogance"; "the modern world with its quick material successes and insolent belief in the boundless possibilities of progress"- Bertrand Russell
+a	00156101	0.625	0.25	self-assertive#1 self-asserting#1 assertive#1	aggressively self-assured; "an energetic assertive boy who was always ready to argue"; "pointing directly at a listener is an assertive act"
+a	00159498	0	0.125	stalkless#1 sessile#2	attached directly by the base; not having an intervening stalk; "sessile flowers"; "the shell of a sessile barnacle is attached directly to a substrate"
+a	00160768	0	0.5	separate#2 freestanding#1	standing apart; not attached to or supported by anything; "a freestanding bell tower"; "a house with a separate garage"
+a	00162248	0.625	0	clastic#2	capable of being taken apart; "the professor had a clastic model of the human brain"
+a	00163315	0.5	0.125	gullible#2	easily tricked because of being too trusting; "gullible tourists taken in by the shell game"
+a	00164462	0.5	0	observant#1	paying close attention especially to details
+a	00167829	0.625	0	winning#2 taking#1 fetching#1	very attractive; capturing interest; "a fetching new hairstyle"; "something inexpressibly taking in his manner"; "a winning personality"
+a	00171447	0.375	0	unattractive#2	lacking power to arouse interest; "being unemployed is a most unattractive prospect"
+a	00171590	0.625	0	attributable#1	capable of being attributed; "the collapse of the movement was attributable to a lack of morale"; "an idea attributable to a Russian"
+a	00173391	0	0	with_child#1 large#7 heavy#27 great#6 gravid#1 expectant#2 enceinte#1 big#13	in an advanced stage of pregnancy; "was big with child"; "was great with child"
+a	00175719	0	0	subsonic#1	(of speed) less than that of sound in a designated medium; "aircraft flying at subsonic speeds"
+a	00176387	0	0.375	promising#2 hopeful#2 bright#10	full or promise; "had a bright future in publishing"; "the scandal threatened an abrupt end to a promising political career"; "a hopeful new singer on Broadway"
+a	00176676	0.75	0	rosy#4 fortunate#3	presaging good fortune; "she made a fortunate decision to go to medical school"; "rosy predictions"
+a	00178126	0.25	0.75	ominous#2 inauspicious#3 ill#5	presaging ill fortune; "ill omens"; "ill predictions"; "my words with inauspicious thunderings shook heaven"- P.B.Shelley; "a dead and ominous silence prevailed"; "a by-election at a time highly unpropitious for the Government"
+a	00180835	0	0	heteroecious#1	of parasites; passing through different stages of the life cycle on different host species; "heteroecious fungi"; "heteroecious insects"
+a	00183675	0.125	0	accessible#3	easily obtained; "most students now have computers accessible"; "accessible money"
+a	00184229	0.125	0	forthcoming#3	available when required or as promised; "federal funds were not forthcoming"
+a	00184363	0.625	0	procurable#1 obtainable#1 gettable#1 getable#1	capable of being obtained; "savings of up to 50 percent are obtainable"
+a	00184543	0	0	in_stock#1	available for use or sale; "they have plenty of stonewashed jeans in stock"
+a	00002956	0	0	abducting#1 abducent#1	especially of muscles; drawing away from the midline of the body or from an adjacent part
+a	00005599	0.5	0.5	unquestioning#2 implicit#2	being without doubt or reserve; "implicit trust"
+a	00007208	0	0.125	receptive#4	able to absorb liquid (not repellent); "the paper is ink-receptive"
+a	00007813	0	0.5	nonabsorptive#1 nonabsorbent#1	not capable of absorbing or soaking up (liquids)
+a	00008443	0	0.25	chemosorptive#1 chemisorptive#1	having the capacity to adsorb by chemical as contrasted with physical forces
+a	00009346	0	0.625	abstinent#1 abstentious#1	self-restraining; not indulging an appetite especially for food or drink; "not totally abstinent but abstemious"
+a	00009978	0	0	gluttonous#1	given to excess in consumption of especially food or drink; "over-fed women and their gluttonous husbands"; "a gluttonous debauch"; "a gluttonous appetite for food and praise and pleasure"
+a	00010726	0	0	wolfish#2 voracious#2 ravenous#2 ravening#3 rapacious#3 esurient#3 edacious#1	devouring or craving food in great quantities; "edacious vultures"; "a rapacious appetite"; "ravenous as wolves"; "voracious sharks"
+a	00011160	0	0	greedy#3	wanting to eat or drink more than one can reasonably consume; "don't be greedy with the cookies"
+a	00012071	0.375	0	notional#4 ideational#1 conceptional#1	being of the nature of a notion or concept; "a plan abstract and conceptional"; "to improve notional comprehension"; "a notional response to the question"
+a	00014858	0	0	voluminous#3 copious#1	large in number or quantity (especially of discourse); "she took copious notes"; "a subject of voluminous legislation"
+a	00015854	0	0.25	plentiful#1	existing in great number or quantity; "rhinoceroses were once plentiful here"
+a	00016756	0	0.25	scarce#1	deficient in quantity or number compared with the demand; "fresh vegetables were scarce during the drought"
+a	00017688	0.375	0.25	unabused#1	not physically abused; treated properly
+a	00018435	0	0.5	unobjectionable#3	not objectionable; "the ends are unobjectionable; it's the means that one can't accept"
+a	00021592	0.125	0.25	uncooperative#2 disobliging#1	intentionally unaccommodating; "the action was not offensive to him but proved somewhat disobliging"
+a	00022219	0.625	0	faithful#2 close#5	marked by fidelity to an original; "a close translation"; "a faithful copy of the portrait"; "a faithful rendering of the observed facts"
+a	00022962	0	0	straight#5	in keeping with the facts; "set the record straight"; "made sure the facts were straight in the report"
+a	00023120	0.125	0	true#2 dead_on_target#1	accurately placed or thrown; "his aim was true"; "he was dead on target"
+a	00023383	0.125	0.625	inaccurate#1	not exact; "an inaccurate translation"; "the thermometer is inaccurate"
+a	00023655	0	0	outside#10 away#3	(of a baseball pitch) on the far side of home plate from the batter; "the pitch was away (or wide)"; "an outside pitch"
+a	00024996	0	0.125	new#11	unfamiliar; "new experiences"; "experiences new to him"; "errors of someone new to the job"
+a	00026515	0.5	0	amphoteric#1 amphiprotic#1	having characteristics of both an acid and a base and capable of reacting as either
+a	00026895	0	0	aciduric#1 acidophilous#1 acidophilic#1	especially of some bacteria; growing well in an acid medium
+a	00028008	0.25	0	assumptive#2	accepted as real or true without proof; "the assumed reason for his absence"; "assumptive beliefs"
+a	00028280	0	0	granted#1 given#1	acknowledged as a supposition; "given the engine's condition, it is a wonder that it started"
+a	00028471	0.125	0	putative#1	purported; commonly put forth or accepted as true on inconclusive grounds; "the foundling's putative father"; "the putative author of the book"
+a	00028984	0.25	0	unavowed#3 secret#3	not openly made known; "a secret marriage"; "a secret bride"
+a	00029216	0	0.5	unrecognized#1 unrecognised#2	not recognized; "he was unrecognized in his disguise"
+a	00030701	0	0	plundering#1	given to taking by force what is desired
+a	00030798	0	0	predatory#3 predacious#2 predaceous#2	living by or given to victimizing others for personal gain; "predatory capitalists"; "a predatory, insensate society in which innocence and decency can prove fatal"- Peter S. Prescott; "a predacious kind of animal--the early geological gangster"- W.E.Swinton
+a	00033359	0.125	0	on_the_go#1	(of a person) very busy and active; "is always on the go"
+a	00033574	0.375	0.5	inactive#9	not active physically or mentally; "illness forced him to live an inactive life"; "dreamy and inactive by nature"
+a	00034032	0.25	0.375	dormant#4 abeyant#1	inactive but capable of becoming active; "her feelings of affection are dormant but easily awakened"
+a	00034572	0.125	0	sedentary#1	requiring sitting or little activity; "forced by illness to lead a sedentary life"
+a	00034710	0	0	active#14	engaged in full-time work; "active duty"; "though past retirement age he is still active in his profession"
+a	00035254	0	0.625	off#5	not performing or scheduled for duties; "He's off every Tuesday"
+a	00035978	0.375	0.25	busy#4	crowded with or characterized by much activity; "a very busy week"; "a busy life"; "a busy street"; "a busy seaport"
+a	00036163	0	0.5	going#1	in full operation; "a going concern"
+a	00036763	0	0	dark#11	not giving performances; closed; "the theater is dark on Mondays"
+a	00036998	0	0.5	sluggish#2 slow#6 dull#8	(of business) not active or brisk; "business is dull (or slow)"; "a sluggish market"
+a	00037757	0	0.375	inactive#2	(pathology) not progressing or increasing; or progressing slowly
+a	00038750	0.125	0	active#3	disposed to take action or effectuate change; "a director who takes an active interest in corporate operations"; "an active antagonism"; "he was active in drawing attention to their grievances"
+a	00039394	0	0	proactive#2	(of a policy or person or action) controlling a situation by causing something to happen rather than waiting to respond to it after it happens
+a	00040534	0.125	0.5	eruptive#3	actively spewing out lava; "a geyser is an intermittently eruptive hot spring"
+a	00040685	0	0	inactive#5 dormant#2	(of e.g. volcanos) not erupting and not extinct ; "a dormant volcano"
+a	00041841	0	0	stative#1	( used of verbs (e.g. `be' or `own') and most participial adjectives) expressing existence or a state rather than an action
+a	00042037	0	0	active#10	expressing that the subject of the sentence has the semantic function of actor: "Hemingway favors active constructions"
+a	00042982	0	0	surface-active#1	capable of lowering the surface tension of a liquid; used especially of detergents
+a	00043125	0	0.625	inactive#4	not exerting influence or change
+a	00043231	0.125	0.625	quiescent#1	not active or activated; "the quiescent level of centimeter wave-length solar radiation"
+a	00044760	0	0.5	acute#1	having or experiencing a rapid onset and short but severe course; "acute appendicitis"; "the acute phase of the illness"; "acute patients"
+a	00044987	0	0	subacute#1	less than acute; relating to a disease present in a person with no symptoms of it
+a	00045123	0	0.375	chronic#1	being long-lasting and recurrent or characterized by long suffering; "chronic indigestion"; "a chronic shortage of funds"; "a chronic invalid"
+a	00047029	0	0	addicted#1	compulsively or physiologically dependent on something habit-forming; "she is addicted to chocolate"; "addicted to cocaine"
+a	00049879	0	0	supplementary#2 supplemental#2	added to complete or make up a deficiency; "produced supplementary volumes"
+a	00050260	0.625	0	ablative#2	tending to ablate; i.e. to be removed or vaporized at very high temperature; "ablative material on a rocket cone"
+a	00053248	0.25	0	bondable#2	capable of holding together or cohering; as particles in a mass
+a	00055142	0	0.5	nonresiny#1 nonresinous#1 non-resiny#1 non-resinous#1	not having resin
+a	00055539	0.125	0	substantive#2 essential#5	defining rights and duties as opposed to giving the rules by which rights and duties are established; "substantive law"
+a	00056002	0.375	0	decorated#1 adorned#1	provided with something intended to increase its beauty or distinction
+a	00057992	0	0	tufted#3 topknotted#1 crested#2	(of a bird or animal) having a usually ornamental tuft or process on the head; often used in combination; "golden crested"; "crested iris"; "crested oriole"; "tufted duck"; "tufted loosestrife"
+a	00058929	0.125	0	gilt-edged#2	having gilded edges as the pages of a book
+a	00059326	0	0	tessellated#2	decorated with small pieces of colored glass or stone fitted together in a mosaic; "a tessellated pavement"
+a	00059782	0	0.375	studded#1	dotted or adorned with or as with studs or nailheads; usually used in combination; "star-studded heavens"; "diamond-studded belt"
+a	00060151	0	0.125	tricked-out#1	decorated in a particular way; "tricked-out cupboards looking like Georgian cabinets"
+a	00060397	0.25	0.625	undecorated#1 unadorned#1	not decorated with something to increase its beauty or distinction
+a	00063277	0.25	0.375	maladroit#1	not adroit; "a maladroit movement of his hand caused the car to swerve"; "a maladroit translation"; "maladroit propaganda"
+a	00065184	0.125	0.25	preferential#1 discriminatory#4	manifesting partiality; "a discriminatory tax"; "preferential tariff rates"; "preferential treatment"; "a preferential shop gives priority or advantage to union members in hiring or promoting"
+a	00065791	0.625	0.25	adventurous#1 adventuresome#1	willing to undertake or seeking out new and daring enterprises; "adventurous pioneers"; "the risks and gains of an adventuresome economy"
+a	00066146	0.375	0.125	venturous#1 venturesome#1 daring#1 audacious#3	disposed to venture or take risks; "audacious visions of the total conquest of space"; "an audacious interpretation of two Jacobean dramas"; "the most daring of contemporary fiction writers"; "a venturesome investor"; "a venturous spirit"
+a	00067638	0.625	0	well#3	wise or advantageous and hence advisable; "it would be well to start early"
+a	00068278	0	0.125	unadvised#1 ill-advised#1	without careful prior deliberation or counsel; "ill-advised efforts"; "it would be ill-advised to accept the offer"; "took the unadvised measure of going public with the accusations"
+a	00069060	0	0.375	anaerobiotic#1 anaerobic#1	living or active in the absence of free oxygen; "anaerobic bacteria"
+a	00069217	0.5	0	aerobic#2	based on or using the principles of aerobics; enhancing respiratory and circulatory efficiency; "aerobic dance"; "running is very aerobic"
+a	00069427	0	0.25	anaerobic#2	not aerobic; "isometric exercises are anaerobic"
+a	00069531	0.625	0	esthetical#1 esthetic#1 aesthetical#1 aesthetic#2	concerning or characterized by an appreciation of beauty or good taste; "the aesthetic faculties"; "an aesthetic person"; "aesthetic feeling"; "the illustrations made the book an aesthetic success"
+a	00070427	0.375	0.125	sensuous#1	taking delight in beauty; "the sensuous joy from all things fair"
+a	00072436	0.125	0	superior#7	(often followed by `to') above being affected or influenced by; "he is superior to fear"; "an ignited firework proceeds superior to circumstances until its blazing vitality fades"
+a	00073048	0	0	unnatural#3 affected#2	speaking or behaving in an artificial way to make an impression
+a	00073465	0	0.25	stilted#1 hokey#2 contrived#2 artificial#2	artificially formal; "that artificial humility that her husband hated"; "contrived coyness"; "a stilted letter of acknowledgment"; "when people try to correct their speech they develop a stilted pronunciation"
+a	00074867	0.125	0.125	unselfconscious#1	not self-conscious; "she grew up with him in unselfconscious friendship"
+a	00075737	0	0.625	dissident#2 dissenting#1 dissentient#2	disagreeing, especially with a majority
+a	00077196	0	0	floating#1	borne up by or suspended in a liquid; "the ship is still floating"; "floating logs"; "floating seaweed"
+a	00077645	0	0.5	afraid#1	filled with fear or apprehension; "afraid even to turn his head"; "suddenly looked afraid"; "afraid for his life"; "afraid of snakes"; "afraid to ask questions"
+a	00079896	0.625	0.125	hunted#1	reflecting the fear or terror of one who is hunted; "the hopeless hunted look on the prisoner's face"; "a glitter of apprehension in her hunted eyes"
+a	00080357	0	0	terrified#1 panicky#1 panicked#1 panic-struck#1 panic-stricken#1 frightened#2	thrown into a state of intense fear or desperation; "became panicky as the snow deepened"; "felt panicked before each exam"; "trying to keep back the panic-stricken crowd"; "the terrified horse bolted"
+a	00081930	0	0.625	unapprehensive#1	not recognizing or slow to recognize danger
+a	00082034	0.25	0.375	unshrinking#1 unintimidated#1 unflinching#1 unblinking#2	not shrinking from danger
+a	00084022	0	0	vulturous#1 vulturine#1 ravening#1 raptorial#2 rapacious#1 predatory#2	living by preying on other animals especially by catching living prey; "a predatory bird"; "the rapacious wolf"; "raptorial birds"; "ravening wolves"; "a vulturine taste for offal"
+a	00084956	0	0.625	unaggressive#1 nonaggressive#1	not aggressive; not given to fighting or assertiveness
+a	00086005	0	0.5	shaken#1 jolted#2	disturbed psychologically as if by a physical jolt or shock; "retrieved his named from her jolted memory"; "the accident left her badly shaken"
+a	00086341	0.25	0.5	phrenetic#1 frenzied#2 frenetic#1 frantic#1	excessively agitated; distraught with fear or other violent emotion; "frantic with anger and frustration"; "frenetic screams followed the accident"; "a frenzied look in his eye"
+a	00087837	0.25	0	churning#1 churned-up#1	moving with or producing or produced by vigorous agitation; "winds whipped the piled leaves into churning masses"; "a car stuck in the churned-up mud"
+a	00088328	0.25	0.25	seething#1	in constant agitation; "a seething flag-waving crowd filled the streets"; "a seething mass of maggots"; "lovers and madmen have such seething brains"- Shakespeare
+a	00090628	0	0.625	unsweet#2	distasteful; "he found life unsweet"
+a	00091764	0.375	0	wakeful#1 vigilant#1 open-eyed#1 argus-eyed#2	carefully observant or attentive; on the lookout for possible danger; "a policy of open-eyed awareness"; "the vigilant eye of the town watch"; "there was a watchful dignity in the room"; "a watchful parent with a toddler in tow"
+a	00092136	0.125	0.625	fly#1	(British informal) not to be deceived or hoodwinked
+a	00092551	0.25	0.5	unwatchful#1 unvigilant#1 unalert#1	not alert to what is potentially dangerous
+a	00094069	0.125	0.625	inviolable#4 infrangible#2 absolute#5	not capable of being violated or infringed; "infrangible human rights"
+a	00094799	0.375	0.125	liveborn#1	(of newborn infant) showing signs of life after birth; not stillborn; "a liveborn baby"
+a	00096414	0	0	brain_dead#1	having irreversible loss of brain function as indicated by a persistent flat electroencephalogram; "was declared brain dead"
+a	00096595	0	0.75	pulseless#1 inanimate#3 breathless#3	appearing dead; not breathing or having no perceptible pulse; "an inanimate body"; "pulseless and dead"
+a	00097305	0	0.375	doomed#1	marked for certain death; "the black spot told the old sailor he was doomed"
+a	00097452	0	0	executed#1	put to death as punishment; "claimed the body of the executed traitor"
+a	00098147	0	0	slain#1	killed; `slain' is formal or literary as in "slain warriors"; "a picture of St. George and the slain dragon"
+a	00098307	0.25	0.5	stillborn#2	(of newborn infant) showing no signs of life at birth; not liveborn; "a stillborn baby"
+a	00098450	0	0.375	stone-dead#1	as lifeless as a stone
+a	00098529	0	0	apocrine#1	(of exocrine glands) producing a secretion in which part of the secreting cell is released with the secretion; "mother's milk is one apocrine secretion"
+a	00098736	0.25	0	eccrine#1	(of exocrine glands) producing a clear aqueous secretion without releasing part of the secreting cell; important in regulating body temperature
+a	00100373	0	0.75	lifeless#4	not having the capacity to support life; "a lifeless planet"
+a	00100634	0	0	alphabetical#2 alphabetic#2	arranged in order according to the alphabet; "an alphabetic arrangement"; "dictionaries list words in alphabetical order"
+a	00101452	0.25	0	precocial#1	(of hatchlings) covered with down and having eyes open; capable of leaving the nest within a few days
+a	00102201	0.125	0	ambiguous#2	having more than one possible meaning; "ambiguous words"; "frustrated by ambiguous instructions, the parents were unable to assemble the toy"
+a	00103302	0.375	0	multivalent#3 multi-valued#1	having many values, meanings, or appeals; "subtle, multivalent allegory"
+a	00103447	0	0	polysemous#1 polysemantic#1	of words; having many meanings
+a	00103953	0.125	0	monosemous#1	having only one meaning
+a	00104051	0.5	0.125	ambitious#1	having a strong desire for success or achievement
+a	00104318	0.625	0	pushy#1 pushful#1	marked by aggressive ambition and energy and initiative; "an aggressive young executive"; "a pushful insurance agent"
+a	00105023	0.5	0	unambitious#1 ambitionless#1	having little desire for success or achievement
+a	00106277	0	0	wide-cut#1 wide#6 full#8	having ample fabric; "the current taste for wide trousers"; "a full skirt"
+a	00107384	0	0	paltry#2 miserable#6 measly#1	contemptibly small in amount; "a measly tip"; "the company donated a miserable $100 for flood relief"; "a paltry wage"; "almost depleted his miserable store of dried beans"
+a	00107648	0.5	0	anabolic#2	characterized by or promoting constructive metabolism; "some athletes take anabolic steroids to increase muscle size temporarily"
+a	00109633	0	0	anabatic#1	of an air current or wind; rising especially up a slope; "an anabatic wind"
+a	00109966	0	0	anal_retentive#1 anal#2	a stage in psychosexual development when the child's interest is concentrated on the anal region; fixation at this stage is said to result in orderliness, meanness, stubbornness, compulsiveness, etc.
+a	00110252	0	0	oral#4	a stage in psychosexual development when the child's interest is concentrated in the mouth; fixation at this stage is said to result in dependence, selfishness, and aggression
+a	00110497	0	0	linear#3 analogue#1 analog#1	of a circuit or device having an output that is proportional to the input; "analogue device"; "linear amplifier"
+a	00111415	0.125	0	uninflected#3 analytic#3	expressing a grammatical category by using two or more words rather than inflection
+a	00112018	0	0	polysynthetic#1 agglutinative#1	forming derivative or compound words by putting together constituents each of which expresses a single definite meaning
+a	00114454	0.25	0.25	maddened#1 infuriated#1 furious#2 enraged#1 angered#1	marked by extreme anger; "the enraged bull attached"; "furious about the accident"; "a furious scowl"; "infuriated onlookers charged the police who were beating the boy"; "could not control the maddened crowd"
+a	00115494	0	0.75	umbrageous#2 outraged#1 indignant#1 incensed#1	angered at something unjust or wrong; "an indignant denial"; "incensed at the judges' unfairness"; "a look of outraged disbelief"; "umbrageous at the loss of their territory"
+a	00116245	0	0.25	wrothful#1 wroth#1 wrathful#1	vehemently incensed and condemnatory; "they trembled before the wrathful queen"; "but wroth as he was, a short struggle ended in reconciliation"
+a	00117385	0.25	0.5	sentient#1 animate#3	endowed with feeling and unstructured consciousness; "the living knew themselves just sentient puppets on God's stage"- T.E.Lawrence
+a	00118451	0	0	nonconscious#2	relating to the lack of consciousness of inanimate things
+a	00120574	0	0.5	anonymous#1 anon.#1	having no known name or identity or known source; "anonymous authors"; "anonymous donors"; "an anonymous gift"
+a	00120784	0	0	unnamed#1 unknown#2 unidentified#2 nameless#1	being or having an unknown or unnamed source; "a poem by an unknown author"; "corporations responsible to nameless owners"; "an unnamed donor"
+a	00121183	0	0	binominal#1 binomial#2	having or characterized by two names, especially those of genus and species in taxonomies; "binomial nomenclature of bacteria"
+a	00122844	0	0	sequent#2 resultant#1 incidental#3 ensuant#1 consequent#1 concomitant#1 attendant#2 accompanying#1	following or accompanying as a consequence; "an excessive growth of bureaucracy, with attendant problems"; "snags incidental to the changeover in management"; "attendant circumstances"; "the period of tension and consequent need for military preparedness"; "the ensuant response to his appeal"; "the resultant savings were considerable"
+a	00124353	0	0	marine#5	native to or inhabiting the sea; "marine plants and animals such as seaweed and whales"
+a	00126116	0	0.125	above-named#1 above-mentioned#1	mentioned or named earlier in the same text
+a	00128137	0	0	in_line#1	being next in a line of succession; "he was in line for the presidency"
+a	00131863	0	0	caudal#3	situated in or directed toward the part of the body from which the tail arises; "caudal fins"; "the caudal end of the body"
+a	00133335	0	0.625	unappendaged#1	not having an appendage
+a	00134251	0.125	0.125	accessible#4	easy to get along with or talk to; friendly; "an accessible and genial man"
+a	00135193	0	0	grade-appropriate#1	the quality of ability and work that is appropriate for students in a specified grade
+a	00136185	0	0.875	wrong#3 improper#3	not appropriate for a purpose or occasion; "said all the wrong things"
+a	00137641	0.125	0.25	undue#1	not yet payable; "an undue loan"
+a	00138314	0.375	0.25	pertinent#2 apt#4 apposite#1	being of striking appropriateness and pertinence; "the successful copywriter is a master of apposite and evocative verbal images"; "an apt reply"
+a	00138912	0.25	0	a_priori#1	involving deductive reasoning from a general principle to a necessary effect; not supported by fact; "an a priori judgment"
+a	00139344	0	0.5	apteral#1	having columns at one or both ends but not along the sides
+a	00139492	0.375	0	porticoed#1 amphistylar#2 amphiprostyle#1 amphiprostylar#1	marked by columniation having free columns in porticoes either at both ends or at both sides of a structure
+a	00141111	0	0	columnlike#1 columniform#1 columnar#1	having the form of a column; "trees with columniform trunks"; "columnar forms"; "a columnlike tree trunk"
+a	00141522	0	0.5	uncolumned#1 noncolumned#1	not having columns
+a	00142407	0.25	0.125	armed#1	(used of persons or the military) characterized by having or bearing arms; "armed robbery"
+a	00143294	0.125	0	clean#16	not carrying concealed weapons
+a	00143589	0	0.125	armoured#2 armored#1	protected by armor (used of persons or things military)
+a	00144408	0	0	mail-cheeked#1	having bony plates on the sides of the head
+a	00144728	0	0	unarmoured#2 unarmored#2	(used of persons or things military) without protective armor
+a	00145083	0	0.375	thorny#2 spiny#2 setose#1 setaceous#1 prickly#2 burry#1 burred#1 bristly#2 bristled#1 briery#1 briary#1 barbellate#1 barbed#2	having or covered with protective barbs or quills or spines or thorns or setae etc.; "a horse with a short bristly mane"; "bristly shrubs"; "burred fruits"; "setaceous whiskers"
+a	00146609	0	0	long-armed#1	having relatively long arms
+a	00146883	0	0.125	armoured#1 armored#2	used of animals; provided with protective covering
+a	00147397	0	0	silver-scaled#1	having the body covered or partially covered with silver-colored scales
+a	00147734	0.625	0	artful#2	marked by skill in achieving a desired end especially with cunning or craft; "the artful dodger"; "an artful choice of metaphors"
+a	00151105	0	0.625	unarticulate#1 inarticulate#1	without or deprived of the use of speech or words; "inarticulate beasts"; "remained stupidly inarticulate and saying something noncommittal"; "inarticulate with rage"; "an inarticulate cry"
+a	00151661	0	0.75	voiceless#4 aphonic#1	being without sound through injury or illness and thus incapable of all but whispered speech
+a	00152285	0.25	0.5	wordless#1 unspoken#1 tongueless#2 mute#1	expressed without speech; "a mute appeal"; "a silent curse"; "best grief is tongueless"- Emily Dickinson; "the words stopped at her lips unsounded"; "unspoken grief"; "choking exasperation and wordless shame"- Thomas Wolfe
+a	00152784	0	0.5	unarticulated#2	uttered without the use of normal words or syllables
+a	00153898	0	0.75	ashamed#1	feeling shame or guilt or embarrassment or remorse; "are you ashamed for having lied?"; "felt ashamed of my torn coat"
+a	00158407	0	0.75	uncommitted#2 unattached#2	not associated in an exclusive sexual relationship
+a	00159267	0	0	mounted#1	assembled for use; especially by being attached to a support
+a	00159735	0	0.125	stalked#1 pedunculate#1	having or growing on or from a peduncle or stalk; "a pedunculate flower"; "a pedunculate barnacle is attached to the substrate by a fleshy foot or stalk"
+a	00159975	0	0.625	sessile#1	permanently attached to a substrate; not free to move about; "sessile marine animals and plants"
+a	00160288	0	0.125	unattached#3 free-swimming#1	(of animals) able to swim about; not attached
+a	00160573	0	0	detached#4	used of buildings; standing apart from others; "detached houses"; "a detached garage"
+a	00161431	0.5	0	attachable#1	capable of being fastened or added to something else; "a handle attachable by two bolts"
+a	00162386	0.625	0	wary#1	marked by keen caution and watchful prudence; "they were wary in their movements"; "a wary glance at the black clouds"; "taught to be wary of strangers"
+a	00163592	0.25	0	attentive#1	(often followed by `to') giving care or attention; "attentive to details"; "the nurse was attentive to her patient"; "an attentive suitor"
+a	00165458	0	0.25	distrait#1 distracted#1	having the attention diverted especially because of anxiety
+a	00166753	0.5	0	fascinating#2 entrancing#1 enthralling#1 enchanting#1 captivating#1 bewitching#1	capturing interest as if by a spell; "bewitching smile"; "Roosevelt was a captivating speaker"; "enchanting music"; "an enthralling book"; "antique papers of entrancing design"; "a fascinating woman"
+a	00168820	0.5	0	photogenic#1	looking attractive in photographs
+a	00169164	0.5	0.25	unattractive#1	lacking beauty or charm; "as unattractive as most mining regions"
+a	00169955	0	0	attractive#3	having the properties of a magnet; the ability to draw or pull; "an attractive force";
+a	00171292	0.25	0.5	off-putting#2	tending to repel; "The trappings of upper-class life are off-putting and sterile"- Elizabeth Hess
+a	00172993	0	0	predicative#1	of adjectives; relating to or occurring within the predicate of a sentence; "`red' is a predicative adjective in `the apple is red'"
+a	00174056	0	0	clunky#2	making a clunking sound
+a	00174879	0.375	0	infrasonic#1	having frequencies below those of audible sound
+a	00174983	0	0	silent#5	having a frequency below or above the range of human audibility; "a silent dog whistle"
+a	00175300	0.375	0	ultrasonic#1 supersonic#2	having frequencies above those of audible sound
+a	00175435	0.25	0	unheard#1	not necessarily inaudible but not heard
+a	00176150	0.625	0	auspicious#1	auguring favorable circumstances and good luck; "an auspicious beginning for the campaign"
+a	00180211	0	0.75	unconstitutional#1	not consistent with or according to a constitution; contrary to the U.S. Constitution
+a	00180496	0	0	allochthonous#1	of rocks, deposits, etc.; found in a place other than where they and their constituents were formed
+a	00180655	0	0	homoecious#1 autoecious#1	of parasites especially rust fungi; completing the entire life cycle on a single host; "autoecious rust fungi"
+a	00182510	0	0	self-winding#1	designed so that manual winding is unnecessary; "a self-winding watch"
+a	00184792	0.375	0	visible#3	present and easily available; "the cash on hand is adequate for current needs"; "emergency police were on hand in case of trouble"; "a visible supply"; "visible resources"
+a	00002730	0	0	acroscopic#1	facing or on the side toward the apex
+a	00002843	0	0	basiscopic#1	facing or on the side toward the base
+a	00003356	0	0	nascent#1	being born or beginning; "the nascent chicks"; "a nascent insurgency"
+a	00003939	0	0	dying#1	in or associated with the process of passing from life or ceasing to be; "a dying man"; "his dying wish"; "a dying fire"; "a dying civilization"
+a	00004171	0	0	moribund#2	being on the point of death; breathing your last; "a moribund patient"
+a	00004296	0	0	last#5	occurring at the time of death; "his last words"; "the last rites"
+a	00004817	0	0	potted#3	(British informal) summarized or abridged; "a potted version of a novel"
+a	00004980	0	0	unabridged#1	(used of texts) not shortened; "an unabridged novel"
+a	00005205	0.5	0	absolute#1	perfect or complete or pure; "absolute loyalty"; "absolute silence"; "absolute truth"; "absolute alcohol"
+a	00006032	0.25	0.5	relative#1 comparative#2	estimated by comparison; not absolute or complete; "a relative stranger"
+a	00006885	0	0.75	assimilatory#1 assimilative#2 assimilating#1	capable of taking (gas, light, or liquids) into a solution; "an assimilative substance
+a	00007990	0	0.5	resistant#5 repellent#3	incapable of absorbing or mixing with; "a water-repellent fabric"; "plastic highly resistant to steam and water"
+a	00008206	0	0	surface-assimilative#1 adsorptive#1 adsorbent#1	having capacity or tendency to adsorb or cause to accumulate on a surface
+a	00008734	0.5	0	absorbable#1	capable of being absorbed or taken in through the pores of a surface
+a	00008877	0.25	0	adsorbate#1 adsorbable#1	capable of being adsorbed or accumulated on a surface of a solid
+a	00011327	0	0.125	swinish#2 porcine#3 piggy#1 piggish#1 hoggish#1	resembling swine; coarsely gluttonous or greedy; "piggish table manners"; "the piggy fat-cheeked little boy and his porcine pot-bellied father"; "swinish slavering over food"
+a	00013887	0	0.25	abundant#1	present in great quantity; "an abundant supply of water"
+a	00014490	0.125	0	rich#12 plentiful#2 plenteous#1 copious#2 ample#2	affording an abundant supply; "had ample food for the party"; "copious provisions"; "food is plentiful"; "a plenteous grape harvest"; "a rich supply"
+a	00015097	0.25	0.625	easy#12	obtained with little effort or sacrifice, often obtained illegally; "easy money"
+a	00016005	0	0	rampant#3	(of a plant) having a lush and unchecked growth; "a rampant growth of weeds"
+a	00016247	0.125	0.5	superabundant#1	most excessively abundant
+a	00016350	0	0	teeming#1	abundantly filled with especially living things; "the Third World's teeming millions"; "the teeming boulevard"
+a	00017024	0	0.875	rare#3	not widely distributed; "rare herbs"; "rare patches of green in the desert"
+a	00017782	0.625	0	acceptable#1	worthy of acceptance or satisfactory; "acceptable levels of radiation"; "performances varied from acceptable to excellent"
+a	00019131	0.625	0	accessible#1	capable of being reached; "a town accessible by rail"
+a	00019349	0.375	0	reachable#1 approachable#3	easily approached; "a site approachable from a branch of the Niger"
+a	00019731	0.125	0.125	ready_to_hand#1 handy#1	easy to reach; "found a handy spot for the can opener"
+a	00022680	0.5	0.125	high-fidelity#1 hi-fi#1	characterized by minimal distortion in sound reproduction; "a high-fidelity recording"; "a hi-fi system"
+a	00022852	0.5	0	surgical#3	performed with great precision; "a surgical air strike"
+a	00024139	0	0.5	unfaithful#4	not trustworthy; "an unfaithful reproduction"
+a	00024834	0	0.75	unaccustomed#1	not habituated to; unfamiliar with; "unaccustomed to wearing suits"
+a	00025470	0	0.375	acid#3	having the characteristics of an acid; "an acid reaction"
+a	00025728	0	0	alkaline#1 alkalic#1	relating to or containing an alkali; having a pH greater than 7; "alkaline soils derived from chalk or limestone"
+a	00026051	0.125	0.375	alkalescent#1 alcalescent#1	tending to become alkaline; slightly alkaline
+a	00026706	0	0.25	acid-loving#1	thriving in a relatively acidic environment (especially of plants requiring a pH well below 7)
+a	00027247	0.125	0	acknowledged#1	recognized or made known or admitted; "the acknowledged leader of the community"; "a woman of acknowledged accomplishments"; "his acknowledged error"
+a	00027833	0	0.125	self-confessed#1	owned up to; "his admitted doubts"; "the conceded error"; "a confessed murderer"; "a self-confessed plagiarist"
+a	00028181	0.375	0	declarable#1	that must be declared; "declarable income"
+a	00028672	0	0.625	unacknowledged#1	not recognized or admitted
+a	00029108	0	0.375	unconfessed#1	not admitted; "unconfessed sins"
+a	00029769	0.375	0	accumulative#2	marked by acquiring or amassing; "we live in an accumulative society"
+a	00032358	0	0	astir#2 about#1	on the move; "up and about"; "the whole town was astir over the incident"
+a	00033206	0.25	0	overactive#1 hyperactive#1	more active than normal; "a hyperactive child"
+a	00033886	0.125	0	deskbound#1 desk-bound#1	restricted to working in an office rather than in an active physical capacity
+a	00034322	0.25	0.125	torpid#1 soggy#3 sluggish#3 inert#3	slow and apathetic; "she was fat and inert"; "a sluggish worker"; "a mind grown torpid in old age"
+a	00034924	0	0.125	activated#4	(military) set up and placed on active assignment; "a newly activated unit"
+a	00035074	0	0.375	inactive#8	not engaged in full-time work; "inactive reserve"; "an inactive member"
+a	00035465	0	0	active#7	full of activity or engaged in continuous activity; "an active seaport"; "an active bond market"; "an active account"
+a	00035779	0.25	0.125	brisk#3	very active; "doing a brisk business"
+a	00035868	0.5	0	bustling#1	full of energetic and noisy activity; "a bustling city"
+a	00036254	0	0	open#21	ready for business; "the stores are open"
+a	00036346	0.125	0.375	springy#2	(of movements) light and confidently active; "he walked away with a springy step"
+a	00037188	0.125	0.625	unused#3 idle#3	not in active use; "the machinery sat idle during the strike"; "idle hands"
+a	00037341	0	0	strikebound#1	closed or immobilized by a strike; "a strikebound airline"
+a	00037457	0.375	0.5	active#1	tending to become more severe or wider in scope; "active tuberculosis"
+a	00038260	0	0	indolent#2	(of tumors, e.g.) slow to heal or develop and usually painless; "an indolent ulcer"; "leprosy is an indolent infectious disease"
+a	00038462	0.125	0.25	latent#2	(pathology) not presently active; "latent infection"; "latent diabetes"
+a	00039592	0.375	0.25	passive#1 inactive#6	lacking in energy or will; "Much benevolence of the passive order may be traced to a disinclination to inflict pain upon oneself"- George Meredith
+a	00039929	0	0.625	hands-off#1	not involving participation or intervention; "a hands-off foreign policy"
+a	00040909	0	0.25	quiescent#3	being quiet or still or inactive
+a	00041202	0.25	0.625	dead#5	physically inactive; "Crater Lake is in the crater of a dead volcano of the Cascade Range"
+a	00041618	0	0	dynamic#3 active#11	(used of verbs (e.g. `to run') and participial adjectives (e.g. `running' in `running water')) expressing action rather than a state of being
+a	00042457	0.25	0	active#6	exerting influence or producing a change or effect; "an active ingredient"
+a	00043765	0.125	0.5	existent#3 actual#1	presently existing in fact and not merely potential or possible; "the predicted temperature and the actual temperature were markedly different"; "actual and imagined conditions"
+a	00044132	0.5	0	effective#5	existing in fact; not theoretical; real; "a decline in the effective demand"; "confused increased equipment and expenditure with the quantity of effective work done"
+a	00044353	0	0.25	potential#1 possible#2	existing in possibility; "a potential problem"; "possible uses of nuclear power"
+a	00044608	0	0.625	latent#1	potentially existing but not presently evident or realized; "a latent fingerprint"; "latent talent"
+a	00045561	0.5	0	virulent#2	infectious; having the ability to cause disease
+a	00045735	0.125	0.375	highly_infective#1	(of a microorganism) extremely infective; "a highly infective organism"
+a	00045888	0.125	0.25	deadly#6	(of a disease) having a rapid course and violent effect
+a	00046014	0	0.875	avirulent#1	not virulent; unable to produce disease
+a	00046109	0.25	0	adaptive#1 adaptative#1	having a capacity for adaptation; "the adaptive coloring of a chameleon"
+a	00047243	0	0	alcoholic#2 alcohol-dependent#1	addicted to alcohol; "alcoholic expatriates in Paris"- Carl Van Doren
+a	00047566	0	0.125	unaddicted#1	not addicted
+a	00048460	0	0	cumulative#1 accumulative#1	increasing by successive addition; "the benefits are cumulative"; "the eventual accumulative effect of these substances"
+a	00048706	0.5	0	addible#1 addable#1	capable of being added or added to
+a	00049016	0.125	0.125	completing#1 complementary#2 complemental#1	acting as or providing a complement (something that completes the whole)
+a	00050446	0	0.625	reductive#1	characterized by or causing diminution or curtailment; "their views of life were reductive and depreciatory" - R.H.Rovere
+a	00050947	0	0.125	unaddressed#1	not addressed; "an unaddressed envelope"
+a	00052012	0	0.625	wanting#2 lacking#1 deficient#1	inadequate in amount or degree; "a deficient education"; "deficient in common sense"; "lacking in stamina"; "tested and found wanting"
+a	00052246	0	0.25	unequal_to#1 incompetent#5 incapable#4	not meeting requirements; "unequal to the demands put upon him"
+a	00052431	0	0.75	understaffed#1 undermanned#1 short-staffed#1 short-handed#1	inadequate in number of workers or assistants etc.; "they're rather short-handed at the moment"; "overcrowded and understaffed hospitals"
+a	00053032	0	0	adherent#1	sticking fast
+a	00053154	0	0	agglutinative#2 agglutinate#1	united as if by glue
+a	00053691	0	0	viscous#2 viscid#1 sticky#1 pasty#2 mucilaginous#1 gummy#1 glutinous#1 gluey#1	having the sticky properties of an adhesive
+a	00054364	0	0	tarry#1 resiny#1 resinous#1 pitchy#2	having the characteristics of pitch or tar
+a	00054541	0	0.5	self-sealing#2	seals without the application of moisture; "self-sealing envelopes"
+a	00054667	0	0.5	stick-on#1	of something (a paper label or postage stamp) gummed in advance; "stick-on labels"
+a	00054908	0	0.75	nonadhesive#1	not tending to adhere
+a	00055041	0	0.625	nonviscid#1 nonglutinous#1	not resembling glue in texture
+a	00055256	0	0.75	ungummed#1	not treated with adhesive gum
+a	00055340	0	0	procedural#2 adjective#2	relating to court practice and procedure as opposed to the principles of law; "adjective law"
+a	00056943	0	0.25	spectacled#1 monocled#1 bespectacled#1	wearing, or having the face adorned with, eyeglasses or an eyeglass; "a bespectacled grandmother"; "the monocled gentleman"
+a	00057390	0	0.125	buttony#2	ornamented with many buttons
+a	00057566	0	0	cloisonne#1 champleve#1	(for metals) having areas separated by metal and filled with colored enamel and fired
+a	00057881	0	0.25	plumed#3 crested#3	(of a knight's helmet) having a decorative plume
+a	00058379	0	0	crocketed#1	(of a gable or spire) furnished with a crocket (an ornament in the form of curved or bent foliage); "a crocketed spire"
+a	00058696	0	0.125	ruffled#2 frilly#1 frilled#1	having decorative ruffles or frills
+a	00058822	0	0.125	fringed#2	having a decorative edging of hanging cords or strips
+a	00059201	0	0	inwrought#1	having a decorative pattern worked or woven in; "an inwrought design"
+a	00059491	0	0.25	mounted#2	decorated with applied ornamentation; often used in combination; "the trim brass-mounted carbine of the ranger"- F.V.W.Mason
+a	00060294	0	0.125	tufted#2	having or adorned with tufts; "a tufted bedspread"
+a	00060875	0.375	0.375	untufted#1	not adorned with tufts; "untufted ears"
+a	00060969	0	0	cholinergic#1	releasing or activated by acetylcholine or a related compound
+a	00061262	0.25	0	adroit#1	quick or skillful or adept in action or thought; "an exceptionally adroit pianist"; "an adroit technician"; "his adroit replies to hecklers won him many followers"; "an adroit negotiator"
+a	00061664	0.625	0	neat#4 clean#17	free from clumsiness; precisely or deftly executed; "he landed a clean left on his opponent's cheek"; "a clean throw"; "the neat exactness of the surgeon's knife"
+a	00062367	0.25	0.25	dextrous#1 dexterous#1 deft#1	skillful in physical movements; especially of the hands; "a deft waiter"; "deft fingers massaged her face"; "dexterous of hand and inventive of mind"
+a	00063087	0.5	0	quick-witted#1	mentally nimble and resourceful; "quick-witted debater"; "saved an embarrassing situation with quick-witted tact"
+a	00064176	0.125	0.375	uncoordinated#2	lacking the skillful and effective interaction of muscle movements; "his movements are uncoordinated"; "an uncoordinated toddler"
+a	00065064	0.75	0	positive#3 plus#2	involving advantage or good; "a plus (or positive) factor"
+a	00066565	0.25	0.25	sporting#3	involving risk or willingness to take a risk; "a sporting chance"; "sporting blood"
+a	00068566	0	0	aerophilous#1 aerophilic#1 aerobic#1	depending on free oxygen or air; "aerobic fermentation"
+a	00068738	0	0	aerobiotic#1	living or active only in the presence of oxygen; "aerobiotic bacteria"
+a	00068883	0	0	oxidative#1	taking place in the presence of oxygen; "oxidative glycolysis"; "oxidative rancidity"
+a	00070111	0	0	enhancive#2 cosmetic#2	serving an aesthetic purpose in beautifying the body; "cosmetic surgery"; "enhansive makeup"
+a	00070288	0.25	0	painterly#1	having qualities unique to the art of painting
+a	00070583	0.5	0.5	unaesthetic#1 inaesthetic#1	violating aesthetic canons or requirements; deficient in tastefulness or beauty; "inaesthetic and quite unintellectual"; "peered through those inaesthetic spectacles"
+a	00071242	0	0.375	struck#1 stricken#2 smitten#1	(used in combination) affected by something overwhelming; "conscience-smitten"; "awe-struck"
+a	00071427	0.125	0	stage-struck#1	infatuated with or enthralled by the theater especially the desire to act
+a	00071992	0.125	0.125	unaffected#1	undergoing no change when acted upon; "entirely unaffected by each other's writings"; "fibers remained apparently unaffected by the treatment"
+a	00072281	0	0.625	immune#4	(usually followed by `to') not affected by a given influence; "immune to persuasion"
+a	00072673	0	0.625	unimpressed#1	not moved to serious regard; "trying to appear unimpressed"
+a	00072790	0.25	0.625	untouched#2 unswayed#1 uninfluenced#1	not influenced or affected; "stewed in its petty provincialism untouched by the brisk debates that stirred the old world"- V.L.Parrington; "unswayed by personal considerations"
+a	00073761	0.125	0.625	strained#3 forced#4 constrained#1	lacking spontaneity; not natural; "a constrained smile"; "forced heartiness"; "a strained smile"
+a	00073935	0	0.25	elocutionary#2	(used of style of speaking) overly embellished; "an elocutionary Oxonian delivery"
+a	00074094	0	0.375	mannered#1	having unnatural mannerisms; "brief, mannered and unlifelike idiom"
+a	00074346	0.75	0.125	unaffected#4	free of artificiality; sincere and genuine; "an unaffected grace"
+a	00074594	0.25	0	natural#10 lifelike#2	free from artificiality; "a lifelike pose"; "a natural reaction"
+a	00075952	0.375	0.25	acceptive#1	inclined to accept rather than reject; "she was seldom acceptive of my suggestions"
+a	00076580	0.125	0.875	dismissive#2	stopping to associate with; "they took dismissive action after the third violation"
+a	00076739	0	0	repudiative#1	rejecting emphatically; e.g. refusing to pay or disowning; "a veto is a repudiative act"
+a	00077059	0	0	adrift#2	afloat on the surface of a body of water; "after the storm the boats were adrift"
+a	00078705	0	0.75	agoraphobic#1	suffering from agoraphobia; abnormally afraid of open or public places
+a	00078851	0	0.625	alarmed#1	experiencing a sudden sense of danger
+a	00079629	0	0.125	scared#1 frightened#1	made afraid; "the frightened child cowered in the corner"; "too shocked and scared to move"
+a	00080098	0	0.75	hydrophobic#2 aquaphobic#1	abnormally afraid of water
+a	00080861	0	0.375	shitless#1	extremely frightened; "he was scared shitless"
+a	00081087	0	0.625	triskaidekaphobic#1	suffering from triskaidekaphobia (abnormal fear of the number 13)
+a	00081234	0	0.625	unnerved#1	deprived of courage and strength; "the steeplejack, exhausted and unnerved, couldn't hold on to his dangerous perch much longer"
+a	00081417	0.125	0	white-lipped#1	having white lips from fear or terror
+a	00081513	0	0.75	xenophobic#1	suffering from xenophobia; having abnormal fear or hatred of the strange or foreign
+a	00082160	0.625	0.25	unfrightened#1	not affected by fright
+a	00082766	0.5	0	combative#3 bellicose#1 battleful#1	having or showing a ready disposition to fight; "bellicose young officers"; "a combative impulse"; "a contentious nature"
+a	00083003	0.5	0.125	militant#2 competitive#3	showing a fighting disposition; "highly competitive sales representative"; "militant in fighting for better wages for workers"; "his self-assertive and ubiquitous energy"
+a	00083876	0.125	0.25	obstreperous#2	boisterously and noisily aggressive; "kept up an obstreperous clamor"
+a	00084661	0.375	0.125	scrappy#1	full of fighting spirit; "a scrappy admiral"
+a	00084795	0.25	0.5	truculent#1	defiantly aggressive; "a truculent speech against the new government"
+a	00085139	0.125	0.375	low-pressure#1	not forceful; "a low-pressure salesman"; "a low-pressure campaign"
+a	00085870	0	0.125	overwrought#1 distraught#1	deeply agitated especially from emotion; "distraught with grief"
+a	00087152	0.125	0.625	unagitated#2	not agitated or disturbed emotionally
+a	00088157	0	0	ruffled#1 rippled#2	shaken into waves or undulations as by wind; "the rippled surface of the pond"; "with ruffled flags flying"
+a	00088658	0	0.75	unagitated#1	not physically disturbed or set in motion
+a	00088792	0	0.25	nonturbulent#1	(of a liquid) not turbulent; "nonturbulent flow"
+a	00088899	0.5	0.25	unstirred#1	not agitated by stirring; "the ingredients sat in the bowl unstirred while she buttered the pan"
+a	00089051	0.5	0	agreeable#1	conforming to your own liking or feelings or nature; "Is the plan agreeable to you?"; "he's an agreeable fellow"; "My idea of an agreeable person...is a person who agrees with me"- Disraeli; "an agreeable manner"
+a	00089355	0.125	0.875	disagreeable#1	not to your liking; "a disagreeable situation"
+a	00090718	0	0	air-to-surface#1 air-to-ground#1	operating from or designed to be fired from aircraft at targets on the ground; "air-to-surface missiles"
+a	00091121	0	0	surface-to-air#1	operating from or designed to be launched from the ground against an airborne target; "surface-to-air missiles"
+a	00092275	0.5	0	wide-awake#2 heads-up#1	fully alert and watchful; "played heads-up ball"
+a	00092691	0	0	algorithmic#1	of or relating to or having the characteristics of an algorithm
+a	00093108	0	0	trial-and-error#2	relating to solving problems by experience rather than theory; "they adopted a trial-and-error procedure"
+a	00093433	0	0	appropriable#1	that can be appropriated; "appropriable funds"
+a	00093810	0.125	0.375	unalienable#1 inalienable#1	incapable of being repudiated or transferred to another; "endowed by their Creator with certain unalienable rights"
+a	00094239	0.5	0	non-negotiable#1	cannot be bought or sold
+a	00094324	0.125	0.5	untransferable#1 unassignable#1 nontransferable#1	incapable of being transferred
+a	00094941	0.5	0	viable#2	capable of life or normal growth and development; "viable seeds"; "a viable fetus"
+a	00095873	0	0.5	gone#2 departed#2 deceased#1 at_rest#2 at_peace#1 asleep#3	dead; "he is deceased"; "our dear departed friend"
+a	00097022	0	0.375	deathly#1 deathlike#1	having the physical appearance of death; "a deathly pallor"
+a	00097147	0	0	defunct#2	having ceased to exist or live; "the will of a defunct aunt"; "a defunct Indian tribe"
+a	00097674	0.125	0	late#4	having died recently; "her late husband"
+a	00098043	0	0.625	nonviable#1	not capable of living or developing successfully
+a	00099590	0	0	in_play#1	of a ball; "the ball is still in play"
+a	00099704	0	0.125	living#6	(used of minerals or stone) in its natural state and place; not mined or quarried; "carved into the living stone";
+a	00100881	0	0	abecedarian#1	alphabetically arranged (as for beginning readers)
+a	00101609	0.875	0	selfless#1 altruistic#1	showing unselfish concern for the welfare of others
+a	00101800	0.375	0	self-centred#1 self-centered#1 egoistical#1 egoistic#1 egocentric#1	limited to or caring only about yourself and your own needs
+a	00102786	0	0	double-edged#1	capable of being interpreted in two usually contradictory ways; "double-edged praise"
+a	00102930	0.25	0.125	oracular#3 enigmatic#2	resembling an oracle in obscurity of thought; "the oracular sayings of Victorian poets"; "so enigmatic that priests might have to clarify it"; "an enigmatic smile"
+a	00105197	0.25	0.5	shiftless#1	lacking or characterized by lack of ambition or initiative; lazy; "a shiftless student"; "studied in a shiftless way"
+a	00106182	0.25	0	generous#3	more than adequate; "a generous portion"
+a	00106456	0	0.625	stingy#2 scrimpy#1 meagre#1 meagerly#1 meager#1	deficient in amount or quality or extent; "meager resources"; "meager fare"
+a	00107128	0	0.5	hand-to-mouth#1	providing only bare essentials; "a hand-to-mouth existence"
+a	00107250	0	0.375	hardscrabble#1	barely satisfying a lower standard; "the sharecropper's hardscrabble life"
+a	00108595	0	0.25	stigmatic#3 anastigmatic#2	not astigmatic
+a	00109133	0	0	synclinal#1	sloping downward toward each other to create a trough
+a	00109261	0	0	anadromous#1	migrating from the sea to fresh water to spawn
+a	00109382	0	0	catadromous#1	migrating from fresh water to the sea to spawn
+a	00111856	0	0	synthetic#3	systematic combining of root and modifying elements into single words
+a	00113818	0.375	0.375	angry#1	feeling or showing anger; "angry at the weather"; "angry customers"; "an angry silence"; "sending angry letters to the papers"
+a	00114266	0	0.5	provoked#1 aggravated#2	incited, especially deliberately, to anger; "aggravated by passive resistance"; "the provoked animal attacked the child"
+a	00115094	0.125	0.125	hot_under_the_collar#1	very angry
+a	00115777	0.125	0.5	ireful#1 irate#1	feeling or showing extreme anger; "irate protesters"; "ireful words"
+a	00115906	0.125	0	livid#3	furiously angry; "willful stupidity makes him absolutely livid"
+a	00116463	0	0.125	unangry#1	not angry
+a	00116744	0.5	0.25	bitter#1 acrimonious#1	marked by strong resentment or cynicism; "an acrimonious dispute"; "bitter about the divorce"
+a	00117106	0	0.5	unresentful#1	not resentful; "completely unresentful and forgiving"
+a	00117235	0	0.75	unbitter#1	having or showing no resentment or desire for revenge; "remarkably unbitter toward her captors"
+a	00117654	0.125	0.25	sensate#1	having physical sensation; "sensate creatures"
+a	00117754	0.125	0.5	insentient#1 insensate#1	devoid of feeling and consciousness and animation; "insentient (or insensate) stone"
+a	00117961	0.25	0.5	unfeeling#2	devoid of feeling or sensation; "unfeeling trees"
+a	00118844	0.375	0	spirited#4 enlivened#2	made lively or spirited; "a meal enlivened by the music"; "a spirited debate"
+a	00119279	0.5	0.125	revived#2 reanimated#1	given fresh life or vigor or spirit; "stirred by revived hopes"
+a	00119409	0.375	0.5	unanimated#1	not animated or enlivened; dull
+a	00119750	0.25	0.5	wan#3	lacking vitality as from weariness or illness or unhappiness; "a wan smile"
+a	00119875	0.5	0	enlivened#1	made sprightly or cheerful
+a	00121034	0	0	onymous#1	bearing a name; "articles in magazines are usually onymous"
+a	00121376	0	0	pseudonymous#1	bearing or identified by an assumed (often pen) name; "the writings of Mark Twain are pseudonymous"
+a	00121649	0	0.125	postmortem#1 postmortal#1	occurring or done after death; "postmortem changes"; "a postmortem examination to determine cause of death"; "postmortal wounds"
+a	00121865	0	0	antecedent#1	preceding in time or order
+a	00122128	0	0	prior#1 anterior#2	earlier in time
+a	00122626	0	0	subsequent#1	following in time or order; "subsequent developments"
+a	00123485	0	0	ulterior#3 posterior#2 later#1	coming at a subsequent time or stage; "without ulterior argument"; "the mood posterior to"
+a	00123653	0	0	antrorse#1	bent or curved forward or upward; "a plant having antrorse hairs on the stem"
+a	00123961	0	0.125	decurved#1	bent down or curved downward; "the decurved bill of a curlew"
+a	00125068	0	0	onshore#2	on the edge of the land; "an onshore lighthouse"
+a	00125170	0	0	overland#1	traveling or passing over land; "an overland journey"; "the overland route used by Marco Polo"
+a	00125319	0	0	amphibious#2	operating or living on land and in water; "amphibious vehicles"; "amphibious operations"; "amphibious troops"; "frogs are amphibious animals"
+a	00125993	0	0.125	above#1	appearing earlier in the same text; "flaws in the above interpretation"
+a	00126339	0	0	prefatory#1 prefatorial#1 introductory#3	serving as an introduction or preface
+a	00127661	0	0	ensuing#1	following immediately and as a result of what went before; "ensuing events confirmed the prediction"
+a	00127815	0	0	undermentioned#1 following#1	about to be mentioned or specified; "the following items"
+a	00127948	0	0	next#1 following#2	immediately following in time or order; "the following day"; "next in line"; "the next president"; "the next item on the list"
+a	00128467	0.375	0	precedented#1	having or supported or justified by a precedent
+a	00128572	0	0	unprecedented#1	having no precedent; novel; "an unprecedented expansion in population and industry"
+a	00128882	0	0	prehensile#1	adapted for grasping especially by wrapping around an object; "a monkey's prehensile tail"
+a	00129029	0	0.125	nonprehensile#1	not prehensile
+a	00129878	0	0	prewar#1	existing or belonging to a time before a war; "prewar levels of industrial production"
+a	00130151	0	0.125	retrograde#2	of amnesia; affecting time immediately preceding trauma
+a	00130281	0	0.125	anterograde#1	of amnesia; affecting time immediately following trauma
+a	00131018	0	0	frontal#1	belonging to the front part; "a frontal appendage"
+a	00131426	0	0	posterior#1	located at or near or behind a part or near the end of a structure
+a	00131692	0	0	hinder#1 hind#1 back#2	located at or near the back of an animal; "back (or hind) legs"; "the hinder part of a carcass"
+a	00132754	0	0	dorsoventral#1	extending from the back to the belly
+a	00133259	0	0	appendaged#1	having an appendage
+a	00133417	0.5	0.25	appetizing#1 appetising#1	appealing to or stimulating the appetite especially in appearance or aroma
+a	00133669	0.625	0.25	savoury#3 savory#3 mouth-watering#1	pleasing to the sense of taste
+a	00133851	0	0.75	unappetizing#1 unappetising#1	not appetizing in appearance, aroma, or taste
+a	00136081	0	0.625	unbefitting#1	not befitting; "behavior unbefitting a father"
+a	00136354	0	0	due#1	owed and payable immediately or on demand; "payment is due"
+a	00136589	0	0	callable#1	subject to a demand for payment before due date; "callable bonds"
+a	00137120	0	0.25	overdue#1 delinquent#3	past due; not paid at the scheduled time; "an overdue installment"; "a delinquent account"
+a	00137501	0	0	repayable#1	subject to repayment; "business loans are usually repayable in regular installments"
+a	00139870	0	0	peripteral#1	having columns on all sides
+a	00139990	0	0	monopteral#1	having circular columniation
+a	00140075	0	0	pseudoperipteral#1 peristylar#1	having columniation completely circling an area of the structure
+a	00140437	0	0.625	nonarbitrable#1	not appropriate for or subject to arbitration
+a	00140880	0	0	amphistylar#1	having columns either at both ends or at both sides
+a	00141316	0.125	0	colonnaded#1	having a series of columns arranged at regular intervals
+a	00141429	0.125	0	pillared#1	having pillars; "the pillared portico"
+a	00141947	0	0.625	nonarboreal#1	not inhabiting or frequenting trees
+a	00142622	0	0	weaponed#1 equipped#4	carrying weapons
+a	00142704	0	0	light-armed#2	armed with light equipment and weapons; "a light-armed brigade"
+a	00143854	0	0.375	steel-plated#1 armour-plated#1 armour-clad#1 armor-plated#1 armor-clad#1	covered with heavy steel; "armor-plated vehicles"
+a	00144102	0.375	0.25	bulletproof#2	not penetrable by bullets; "bulletproof glass"; "bulletproof vest"
+a	00144598	0	0	scaled#2	(used of armor) having overlapping metal plates attached to a leather backing
+a	00146501	0	0	brachiate#2	having arms or armlike appendages
+a	00146693	0	0	one-armed#1	having one arm; "a one-armed veteran"
+a	00146786	0	0	armless#1	having no arms; "the armless Venus de Milo"
+a	00147528	0	0.125	unarmoured#1 unarmored#1	used of animals; without protective covering
+a	00148078	0.625	0.125	wily#1 tricky#3 tricksy#1 sly#1 slick#4 knavish#1 guileful#1 foxy#1 dodgy#2 cunning#2 crafty#1	marked by skill in deception; "cunning men often pass for wise"; "deep political machinations"; "a foxy scheme"; "a slick evasive answer"; "sly as a fox"; "tricky Dick"; "a wily old attorney"
+a	00148642	0.625	0	precious#4 cute#2	obviously contrived to charm; "an insufferably precious performance"; "a child with intolerably cute mannerisms"
+a	00148852	0.125	0	scheming#2 designing#1	concealing crafty designs for advancing your own interest; "a selfish and designing nation obsessed with the dark schemes of European intrigue"- W.Churchill; "a scheming wife"; "a scheming gold digger"
+a	00149120	0.625	0	deep#15	exhibiting great cunning usually with secrecy; "deep political machinations"; "a deep plot"
+a	00149262	0.625	0	elusive#2	skillful at eluding capture; "a cabal of conspirators, each more elusive than the archterrorist"- David Kline
+a	00149461	0.25	0	manipulative#1	skillful in influencing or controlling others to your own advantage; "the early manipulative techniques of a three-year-old child"
+a	00149686	0.125	0.25	pawky#1	cunning and sly; "the pawky rich old lady who incessantly scores off her parasitical descendants"- Punch
+a	00150936	0	0	well-spoken#1	speaking or spoken fittingly or pleasingly; "a well-spoken gentleman"; "a few well-spoken words on civic pride"
+a	00152004	0	0	dumb#3	lacking the power of human speech; "dumb animals"
+a	00152104	0.125	0.5	tongue-tied#1 incoherent#3	unable to express yourself clearly or fluently; "felt tongue-tied with embarrassment"; "incoherent with grief"
+a	00153410	0	0.625	articulated#1 articulate#2	consisting of segments held together by joints
+a	00153545	0	0	jointed#1	having joints or jointed segments;
+a	00155720	0.125	0.625	unblushing#1 shameless#1	feeling no shame; "a shameless imposter"; "an unblushing apologist for fascism"
+a	00156440	0.5	0.25	cocky#1	overly self-confident or self-assertive; "a very cocky young man"
+a	00156839	0.625	0	unassertive#1	inclined to timidity or lack of self-confidence; "a shy unassertive person"
+a	00157389	0	0.625	associatory#1 associative#1	characterized by or causing or resulting from the process of bringing ideas or events together in memory or imagination ; "associative learning"
+a	00157659	0.625	0	associable#1	capable of being associated; "words associable with politics"
+a	00157849	0	0.125	nonassociative#1	not associative
+a	00157925	0.125	0.125	committed#2 attached#3	associated in an exclusive sexual relationship
+a	00158110	0.25	0	betrothed#1 bespoken#2	pledged to be married; "the engaged couple"
+a	00158546	0	0.625	unpromised#1 unpledged#1 unengaged#2	not promised in marriage; "continued seeing him but on an unengaged basis"
+a	00158864	0	0	appendant#1	affixed as an appendage
+a	00159106	0	0	pasted#1 glued#1	affixed or as if affixed with glue or paste; "he stayed glued to one spot"; "pieces of pasted paper"
+a	00159381	0	0.25	unaffixed#1 loose#7	not affixed; "the stamp came loose"
+a	00160144	0	0	vagile#1	having freedom to move about; "vagile aquatic animals"
+a	00160425	0	0	attached#2	used of buildings joined by common sidewalls; "a block of attached houses"
+a	00160957	0	0	semidetached#1	attached on one side only; "a semidetached house"
+a	00161170	0	0	cragfast#1	stranded on or as if on a crag; "cragfast climbers"
+a	00161684	0.5	0	bondable#1 bindable#1	capable of being fastened or secured with a rope or bond
+a	00162083	0.25	0	detachable#1	designed to be unfastened or disconnected without damage; "shirts with detachable collars"
+a	00162661	0.375	0	upon_one's_guard#1 on_your_guard#1 on_one's_guard#1 on_guard#1	vigilant; "on guard against con artists"; "must remain on your guard in such a situation"
+a	00162863	0.375	0.125	shy#3	wary and distrustful; disposed to avoid persons or things; "shy of strangers"
+a	00163480	0	0.25	unguarded#2	displaying or feeling no wariness; "an unguarded remark"
+a	00163948	0.25	0.125	wrapped#2 intent#1 enwrapped#1 engrossed#1 captive#2 absorbed#1	giving or marked by complete attention to; "that engrossed look or rapt delight"; "then wrapped in dreams"; "so intent on this fantastic...narrative that she hardly stirred"- Walter de la Mare; "rapt with wonder"; "wrapped in thought"
+a	00164863	0.25	0.375	inattentive#1	showing a lack of attention or care; "inattentive students"; "an inattentive babysitter"
+a	00165171	0.375	0.125	scatty#2 abstracted#1 absentminded#1 absent#3	lost in thought; showing preoccupation; "an absent stare"; "an absentminded professor"; "the scatty glancing quality of a hyperactive but unfocused intelligence"
+a	00165766	0.25	0.375	yawning#3 oscitant#1 drowsy#2	showing lack of attention or boredom; "the yawning congregation"
+a	00167520	0.5	0	dinky#2	(British informal) pretty and neat; "what a dinky little hat"
+a	00167671	0.875	0	piquant#3 engaging#1	attracting or delighting; "an engaging frankness"; "a piquant face with large appealing eyes"
+a	00168039	0	0.375	showy#4 glossy#3	superficially attractive and stylish; suggesting wealth or expense; "a glossy TV series"
+a	00169056	0.625	0	winsome#1	charming in a childlike or naive way
+a	00169826	0	0.125	unpresentable#1 unprepossessing#1	creating an unfavorable or neutral first impression
+a	00170717	0.25	0	catchy#2 attention-getting#2	likely to attract attention; "a catchy title for a movie"
+a	00172452	0.125	0.25	unattributable#1 unascribable#1	not attributable
+a	00172562	0	0	prenominal#1 attributive#1	of adjectives; placed before the nouns they modify; "`red' is an attributive adjective in `a red apple'"
+a	00173694	0	0.125	nonpregnant#1	not pregnant
+a	00176838	0.111	0.889	unfortunate#2 inauspicious#1	not auspicious; boding ill
+a	00176991	0.125	0.5	unpromising#1	unlikely to bring about favorable results or enjoyment; "faced an unpromising task"; "music for unpromising combinations of instruments"
+a	00177186	0.5	0	propitious#1	presenting favorable circumstances; likely to result in or show signs of success; "propitious omens"; "propitious gales speeded us along"; "a propitious alignment of planets for space exploration"
+a	00177963	0	0.625	unpropitious#1	not propitious
+a	00179486	0	0.875	unauthorized#1 unauthorised#1	not endowed with authority
+a	00179925	0	0	constitutional#2	sanctioned by or consistent with or operating under the law determining the fundamental political principles of a government; "the constitutional right of free speech"; "constitutional government"; "constitutional guarantees"
+a	00180359	0	0	autochthonous#1	of rocks, deposits, etc.; found where they and their constituents were formed
+a	00181030	0	0	autogenous#1 autogenic#1	originating within the body
+a	00181373	0	0	heterogenous#2 heterogeneous#2	originating outside the body
+a	00182418	0	0	self-locking#1	locking automatically when closed
+a	00183832	0.625	0	acquirable#1	capable of being acquired
+a	00183932	0.625	0	addressable#1	capable of being addressed; "addressable memory"
+a	00184676	0.25	0	lendable#1	available for lending; "lendable resources"
+a	00185020	0.375	0	on_hand#1	readily available; "there will be a wealth of information on hand from the lawyers"a	00003553	0	0	emerging#2 emergent#2	coming into existence; "an emergent republic"
+a	00003829	0.25	0	parturient#2	giving birth; "a parturient heifer"
+a	00004413	0	0	abridged#1	(used of texts) shortened by condensing or rewriting; "an abridged version"
+a	00004615	0	0	shortened#4 cut#3	with parts removed; "the drastically cut film"
+a	00004723	0	0	half-length#2	abridged to half its original length
+a	00005107	0.5	0	uncut#7 full-length#2	complete; "the full-length play"
+a	00005473	0.75	0	direct#10	lacking compromising or mitigating elements; exact; "the direct opposite"
+a	00005718	0.125	0	infinite#4	total and all-embracing; "God's infinite wisdom"
+a	00006777	0.375	0	sorbefacient#1 absorbefacient#1	inducing or promoting absorption
+a	00007096	0	0	hygroscopic#1	absorbing moisture (as from the air)
+a	00008595	0	0.25	nonadsorptive#1 nonadsorbent#1	lacking a capacity to adsorb or cause to accumulate on a surface
+a	00010385	0	0	crapulous#2	given to gross intemperance in eating or drinking; "a crapulous old reprobate"
+a	00010537	0	0.5	crapulous#1 crapulent#1	suffering from excessive eating or drinking; "crapulent sleep"; "a crapulous stomach"
+a	00011665	0.125	0.375	too-greedy#1 overgreedy#1	excessively gluttonous
+a	00014358	0	0.25	galore#2 abounding#1	existing in abundance; "abounding confidence"; "whiskey galore"
+a	00015247	0	0.25	riotous#1 profuse#1 luxuriant#3 lush#1 exuberant#3	produced or growing in extreme abundance; "their riotous blooming"
+a	00015720	0.125	0.5	rife#2 plethoric#1 overabundant#1	excessively abundant
+a	00016135	0	0.25	rank#5	growing profusely; "rank jungle vegetation"
+a	00016532	0	0.375	torrential#3	pouring in abundance; "torrential rains"
+a	00016647	0.125	0.5	verdant#1	characterized by abundance of verdure
+a	00017186	0	0.625	tight#6	affected by scarcity and expensive to borrow; "tight money"; "a tight market"
+a	00017352	0	0.625	mistreated#1 maltreated#1 ill-treated#1 abused#2	subjected to cruel treatment; "an abused wife"
+a	00017509	0	0.75	battered#3	exhibiting symptoms resulting from repeated physical and emotional injury; "a battered child"; "the battered woman syndrome"
+a	00018069	0.25	0	bankable#2	acceptable to or at a bank; "bankable funds"
+a	00020103	0.125	0	remote#4 outback#1	inaccessible and sparsely populated;
+a	00020241	0.125	0.25	untrodden#1 untrod#1 untracked#1 trackless#2 roadless#1 pathless#1	lacking pathways; "trackless wilderness"; "roadless areas"
+a	00020410	0	0	unreached#1 unreachable#1 unapproachable#2 out_of_reach#1	inaccessibly located or situated; "an unapproachable chalet high in the mountains"; "an unreachable canyon"; "the unreachable stars"
+a	00020647	0	0.625	ungetatable#1 un-get-at-able#1 un-come-at-able#1	difficult to reach or attain
+a	00023278	0.875	0	veracious#2 right#14	precisely accurate; "a veracious account"
+a	00024417	0.125	0	accustomed#1	(often followed by `to') in the habit of or adapted to; "accustomed to doing her own work"; "I've grown accustomed to her face"
+a	00025138	0	0.125	unused#4	infrequently exposed to; "feet unused to shoes"
+a	00025633	0	0.5	acid-forming#1	yielding an acid in aqueous solution
+a	00026168	0.25	0	basic#4	of or denoting or of the nature of or containing a base
+a	00026294	0.125	0.125	base-forming#1	yielding a base in aqueous solution
+a	00026388	0.25	0.125	saltlike#1	resembling a compound formed by replacing hydrogen in an acid by a metal
+a	00027074	0	0.25	alkaline-loving#1	thriving in a relatively alkaline environment; (especially of plants requiring a pH above 7)
+a	00027599	0.5	0	recognized#1 recognised#2 accepted#1	generally approved or compelling recognition; "several accepted techniques for treating the condition"; "his recognized superiority in this kind of work"
+a	00031138	0.25	0.5	voracious#1 ravening#2 rapacious#2	excessively greedy and grasping; "a rapacious divorcee on the prowl"; "ravening creditors"; "paying taxes to voracious governments"
+a	00031384	0	0.5	sordid#4	meanly avaricious and mercenary; "sordid avarice"; "sordid material interests"
+a	00031674	0	0	acropetal#1	of leaves or flowers; developing or opening in succession from base to apex
+a	00031824	0	0	basipetal#1	of leaves or flowers; developing or opening in succession from apex to base
+a	00032497	0.375	0	gymnastic#1 athletic#2 acrobatic#1	vigorously active; "an acrobatic dance"; "an athletic child"; "athletic playing"; "gymnastic exercises"
+a	00033077	0.5	0	hot#21	marked by excited activity; "a hot week on the stock market"
+a	00033475	0.25	0	sporty#3	appropriate for sport or engagement in a sport
+a	00034232	0	0.625	underactive#1 hypoactive#1	abnormally inactive
+a	00035368	0	0.625	retired#1	no longer active in your work or profession
+a	00036481	0.25	0	inactive#7	lacking activity; lying idle or unused; "an inactive mine"; "inactive accounts"; "inactive machinery"
+a	00037653	0	0.25	progressive#6	advancing in severity; "progressive paralysis"
+a	00037985	0.125	0.125	dead-end#1	lacking opportunities for development or advancement; "stuck in a dead-end job"
+a	00038119	0	0	flat#15	commercially inactive; "flat sales for the month"; "prices remained flat"; "a flat market"
+a	00038623	0	0.625	quiescent#4	(pathology) causing no symptoms; "a quiescent tumor"
+a	00039122	0	0	activistic#1 activist#1	advocating or engaged in activism
+a	00039259	0	0	hands-on#1	involving active participation; "he's a hands-on manager"; "hands-on operations"
+a	00040325	0	0.5	active#13	(of e.g. volcanos) erupting or liable to erupt; "active volcanos"
+a	00041051	0	0	extinct#2	(of e.g. volcanos) permanently inactive; "an extinct volcano"
+a	00041361	0	0.5	active#12	(of e.g. volcanos) capable of erupting
+a	00042692	0.125	0	activated#3	rendered active; e.g. rendered radioactive or luminescent or photosensitive or conductive
+a	00042837	0	0.5	counteractive#1	opposing or neutralizing or mitigating an effect by contrary action
+a	00043411	0.375	0	active#9	(of the sun) characterized by an increased occurrence of sunspots and flares and radio emissions
+a	00045356	0	0.375	degenerative#1	(of illness) marked by gradual deterioration of organs and cells along with loss of function; "degenerative diseases of old age"
+a	00046339	0.625	0.125	reconciling#1 accommodative#3	tending to reconcile or accommodate; bringing into harmony
+a	00046471	0	0	adaptational#1	of or relating to adaptation
+a	00046558	0.625	0.125	adjustive#1	conducive to adjustment
+a	00046673	0.5	0.375	maladaptive#1	showing faulty adaptation
+a	00046792	0	0	nonadaptive#1 dysfunctional#2	(of a trait or condition) failing to serve an adjustive purpose; "dysfunctional behavior"
+a	00046955	0.375	0.25	maladjustive#1	poorly adjusted
+a	00047406	0	0	strung-out#1 hooked#2 drug-addicted#1 dependent#6 dependant#2	addicted to a drug
+a	00047786	0	0.625	habit-forming#1 addictive#1	causing or characterized by addiction; "addictive drugs"; "addictive behavior"
+a	00048129	0	0.375	additive#2	characterized or produced by addition; "an additive process"
+a	00049266	0	0	incremental#1	increasing gradually by regular degrees or additions; "lecturers enjoy...steady incremental growth in salary"
+a	00049683	0	0	summative#1 summational#1	of or relating to a summation or produced by summation
+a	00050083	0.25	0	subtractive#1	constituting or involving subtraction; "a subtractive correction"
+a	00050641	0.125	0	addressed#1	(of mail) marked with a destination; "I throw away all mail addressed to `resident'"
+a	00050799	0	0	self-addressed#1	addressed to yourself; "enclose a stamped self-addressed envelope with all submissions"
+a	00051571	0.25	0	competent#2	adequate for the purpose; "a competent performance"
+a	00052672	0.25	0.5	adhesive#1	tending to adhere
+a	00053384	0	0	tenacious#3 coherent#4	sticking together; "two coherent sheets"; "tenacious burrs"
+a	00053564	0	0.5	cohesive#1	causing cohesion; "a cohesive agent"
+a	00054109	0	0	icky#2 gooey#1	soft and sticky
+a	00054201	0	0	gum-like#1	resembling chewing gum
+a	00054278	0	0.25	gummy#2 gummed#1	covered with adhesive gum
+a	00054804	0	0	sticky#5	covered with an adhesive material
+a	00055765	0.75	0	adoptable#1	suitable or eligible for adoption; "a shortage of adoptable babies"
+a	00055906	0	0	unadoptable#1	difficult to place in an adoptive home
+a	00056660	0	0.375	spangly#1 spangled#1 sequined#1 jewelled#1 jeweled#1 gemmed#1 beady#2	covered with beads or jewels or sequins
+a	00056849	0	0.5	bedaubed#1	ornamented in a vulgar or showy fashion
+a	00057149	0	0	raised#2 embossed#1 brocaded#1	embellished with a raised pattern created by pressure or embroidery; "brocaded silk"; "an embossed satin"; "embossed leather"; "raised needlework"; "raised metalwork"
+a	00057490	0	0	carbuncled#2	set with carbuncles
+a	00057737	0	0	tinselly#1 tinseled#1 clinquant#1	glittering with gold or silver
+a	00058280	0	0	crested#1	bearing an heraldic device
+a	00058554	0	0.125	plumy#3 feathery#3 feathered#1	adorned with feathers or plumes
+a	00059028	0	0.125	inflamed#3	adorned with tongues of flame
+a	00059131	0	0.125	inlaid#1	adorned by inlays
+a	00059669	0	0.125	wainscoted#1 paneled#1	fitted or decorated with panels or wainscoting
+a	00059965	0	0.125	tapestried#1	hung or decorated with tapestry
+a	00060053	0	0.125	tasselled#1 tasseled#1	fringed or adorned with tassels
+a	00060605	0.125	0.25	unornamented#1 unembellished#1 spare#6 plain#6 bare#10	lacking embellishment or ornamentation; "a plain hair style"; "unembellished white walls"; "functional architecture featuring stark unornamented concrete"
+a	00061088	0	0	anticholinergic#1	inhibiting or blocking the action of acetylcholine at a receptor site; "anticholinergic drugs"
+a	00061885	0.625	0	ingenious#1 cunning#3 clever#3	showing inventiveness and skill; "a clever gadget"; "the cunning maneuvers leading to his success"; "an ingenious solution to the problem"
+a	00062626	0.25	0	handy#3	skillful with the hands; "handy with an axe"
+a	00064365	0	0.25	unmechanical#1 nonmechanical#2	(of a person) lacking mechanical skills
+a	00064479	0.625	0	advantageous#1	giving an advantage; "a contract advantageous to our country"; "socially advantageous to entertain often"
+a	00065488	0.75	0.25	disadvantageous#1	constituting a disadvantage
+a	00065667	0	0.875	negative#9 minus#2	involving disadvantage or harm; "minus (or negative) factors"
+a	00066703	0.375	0.25	swashbuckling#1 swaggering#2	flamboyantly adventurous
+a	00066800	0.25	0.375	unadventurous#1	lacking in boldness
+a	00066933	0	0	safe#2	(of an undertaking) secure from risk
+a	00068180	0	0	considered#1	carefully weighed; "a considered opinion"
+a	00069948	0.625	0	artistic#2	satisfying aesthetic standards and sensibilities; "artistic workmanship"
+a	00070839	0.125	0.5	unartistic#1 inartistic#1	lacking aesthetic sensibility;
+a	00070939	0.375	0	affected#1	acted upon; influenced
+a	00071142	0.5	0.5	impressed#1	deeply or markedly affected or influenced
+a	00071897	0	0.5	wonder-struck#1	affected by or overcome with wonder
+a	00073358	0	0	strained#4 agonistic#3	struggling for effect; "agonistic poses"
+a	00074216	0.25	0.125	plummy#2	(of a voice) affectedly mellow and rich; "the radio announcer's plummy voice"
+a	00074741	0	0.375	unmannered#2	without artificiality; natural; "the doctor's quiet unmannered entry"
+a	00075019	0	0	unstilted#1	flowing naturally and continuously; "unstilted conversation"
+a	00075135	0.5	0	affirmatory#1 affirmative#1	affirming or giving assent; "an affirmative decision"; "affirmative votes"
+a	00075389	0.25	0	assentient#1	expressing agreement or consent; "an assenting nod"
+a	00075515	0	0.75	negative#2	expressing or consisting of a negation or refusal or denial
+a	00076341	0.125	0.5	rejective#1	rejecting or tending to reject; "rejective or overcritical attitudes of disappointed parents"
+a	00076921	0	0	afloat#2	borne on the water; floating
+a	00077354	0	0	waterborne#2	supported by water; "waterborne craft"
+a	00077449	0	0	aground#1	stuck in a place where a ship can no longer float; "a ship aground offshore"; "a boat aground on the beach waiting for the tide to lift it"
+a	00078329	0	0.75	acrophobic#1	suffering from acrophobia; abnormally afraid of high places
+a	00078463	0	0.125	afeared#1 afeard#1	a pronunciation of afraid
+a	00078576	0.25	0	shocked#1 dismayed#1 appalled#1 aghast#1	struck with fear, dread, or consternation
+a	00078942	0	0.875	algophobic#1	suffering from algophobia; abnormally afraid of pain
+a	00079069	0.125	0.625	apprehensive#3	in fear or dread of possible evil or harm; "apprehensive for one's life"; "apprehensive of danger"
+a	00079262	0.125	0.25	hangdog#2	frightened into submission or compliance
+a	00079356	0	0.75	claustrophobic#2	suffering from claustrophobia; abnormally afraid of closed-in places
+a	00079485	0.125	0.375	fearful#1	experiencing or showing fear; "a fearful glance"; "fearful of criticism"
+a	00079786	0	0.25	horror-struck#1 horror-stricken#1 horrified#1	stricken with horror
+a	00080213	0	0.75	mysophobic#1	suffering from mysophobia; abnormally afraid of dirt or contamination
+a	00080981	0	0.5	terror-struck#1 terror-stricken#1	struck or filled with terror
+a	00081671	0.25	0.125	unafraid#1 fearless#1	oblivious of dangers or perils or calmly resolute in facing them
+a	00083296	0.125	0.125	high-pressure#1 hard-hitting#2	aggressively and persistently persuasive; "a hard-hitting advertising campaign"; "a high-pressure salesman"
+a	00083749	0.25	0	in-your-face#1	blatantly aggressive; "on-line hard-boiled in-your-face pornography"
+a	00085264	0	0.5	agitated#1	troubled emotionally and usually deeply; "agitated parents"
+a	00086210	0.375	0.375	hectic#1 feverish#1	marked by intense agitation or emotion; "worked at a feverish pace"
+a	00086606	0.125	0.625	hysterical#2	marked by excessive or uncontrollable emotion; "hysterical laughter"; "a mob of hysterical vigilantes"
+a	00086801	0	0.5	psychedelic#3	(of a mental state) characterized by intense and distorted perceptions and hallucinations and feelings of euphoria or sometimes despair; "a psychedelic experience"
+a	00087022	0	0	wild-eyed#1	appearing extremely agitated; "crowded the wild-eyed animals into a truck"
+a	00087354	0	0.125	agitated#2	physically disturbed or set in motion; "the agitated mixture foamed and bubbled"
+a	00087597	0	0	turbulent#2 roily#1 roiling#1 roiled#2 churning#2	(of a liquid) agitated vigorously; in a state of turbulence; "the river's roiling current"; "turbulent rapids"
+a	00088055	0	0	jolted#1	bumped or shaken jerkily; "the jolted passengers"
+a	00088545	0	0	stirred#3	set into a usually circular motion in order to mix or blend
+a	00090219	0.333	0.667	harsh#6 abrasive#2	sharply disagreeable; rigorous; "the harsh facts of court delays"; "an abrasive character"
+a	00090408	0	0.625	trying#2 stressful#1 nerve-wracking#1 nerve-racking#1	extremely irritating to the nerves; "nerve-racking noise"; "the stressful days before a war"; "a trying day at the office"
+a	00090917	0	0	air-to-air#1	operating between or launched from or involving rockets or aircraft in flight; "air-to-air missiles"; "air-to-air communications"
+a	00092848	0	0	recursive#1	of or relating to a recursion
+a	00092933	0	0	heuristic#1	of or relating to or using a general formulation that serves to guide investigation
+a	00093275	0	0	alienable#1	transferable to another owner
+a	00093556	0.125	0	transferrable#2 transferable#2 negotiable#3 conveyable#1 assignable#1	legally transferable to the ownership of another; "negotiable bonds"
+a	00095094	0	0	vital#4	manifesting or characteristic of life; "a vital, living organism"; "vital signs"
+a	00096239	0	0.5	exsanguinous#1 exsanguine#1 bloodless#1	destitute of blood or apparently so; "the bloodless carcass of my Hector sold"- John Dryden
+a	00096815	0	0.375	cold#13	lacking the warmth of life; "cold in his grave"
+a	00096913	0	0	d.o.a.#1	abbreviation for `dead on arrival' at the emergency room
+a	00097577	0	0.25	fallen#4	killed in battle; "to honor fallen soldiers"
+a	00097768	0	0.5	lifeless#1 exanimate#1	deprived of life; no longer living; "a lifeless body"
+a	00097906	0	0	murdered#1	killed unlawfully; "the murdered woman"; "lay a wreath on murdered Lincoln's bier"
+a	00098933	0	0	artesian#1	(of water) rising to the surface under internal hydrostatic pressure; "an artesian well"; "artesian pressure"
+a	00101331	0	0	altricial#1	(of hatchlings) naked and blind and dependent on parents for food
+a	00102079	0.5	0	self-involved#1 self-absorbed#1	absorbed in your own interests or thoughts etc
+a	00103196	0.375	0.375	left-handed#5	ironically ambiguous; "a left-handed compliment"
+a	00103567	0.375	0.375	uncertain#7	ambiguous (especially in the negative); "she spoke in no uncertain terms"
+a	00104533	0.5	0	wishful#2 aspiring#1 aspirant#1	desiring or striving for recognition or advancement
+a	00104699	0.375	0	driven#3 determined#5 compulsive#2	strongly motivated to succeed
+a	00104825	0.25	0	would-be#1 manque#1	unfulfilled or frustrated in realizing an ambition
+a	00104942	0.375	0.25	overambitious#1	excessively ambitious
+a	00106821	0	0.5	spare#5 scanty#1 bare#2	lacking in amplitude or quantity; "a bare livelihood"; "a scanty harvest"; "a spare diet"
+a	00107017	0.125	0.625	exiguous#1	extremely scanty; "an exiguous budget"
+a	00107868	0	0	energy-storing#1 constructive-metabolic#1	of or relating to anabolism
+a	00107984	0	0.75	katabolic#2 catabolic#2	characterized by destructive metabolism
+a	00108145	0	0	energy-releasing#2 destructive-metabolic#1	of or relating to catabolism
+a	00108263	0	0	anaclinal#1	of valleys and rivers; progressing in a direction opposite to the dip in surrounding rock strata
+a	00108434	0	0	cataclinal#1	of valleys and rivers; running in the direction of the dip in surrounding rock strata
+a	00109016	0	0	anticlinal#1	sloping downward away from a common crest
+a	00109504	0	0	diadromous#1	(used of fish) migratory between fresh and salt waters
+a	00110701	0	0	digital#3	of a circuit or device that represents magnitudes in digits; "digital computer"
+a	00112231	0	0	analytical#1 analytic#2	using or skilled in using analysis (i.e., separating a whole--intellectual or substantial--into its elemental parts or basic principles); "an analytic experiment"; "an analytic approach"; "a keenly analytic man"; "analytical reasoning"; "an analytical mind"
+a	00113663	0	0	syncarpous#1	(of ovaries of flowering plants) consisting of united carpels
+a	00114797	0.125	0.5	black#3	marked by anger or resentment or hostility; "black looks"; "black words"
+a	00114921	0.125	0.625	irascible#2 choleric#3	characterized by anger; "a choleric outburst"; "an irascible response"
+a	00116058	0.5	0.25	smouldering#1 smoldering#1	showing scarcely suppressed anger; "her tone was...conversational although...her eyes were smoldering"- James Hensel
+a	00116940	0.375	0.25	rancorous#1	showing deep-seated resentment; "preserve...from rancourous envy of the rich"- Aldous Huxley
+a	00121552	0	0	antemortem#1	preceding death; "antemortem confession"
+a	00122245	0.375	0.125	prevenient#1 anticipatory#1	in anticipation
+a	00122386	0	0.375	preexisting#1 preexistent#1 pre-existing#1 pre-existent#1	existing previously or before something; "variations on pre-existent musical themes"
+a	00123804	0	0	retrorse#1	bent or curved backward or downward; "leaves with retrorse barbs"
+a	00124493	0	0	subaquatic#2 semiaquatic#2	partially aquatic; living or growing partly on land and partly in water; "a marginal subaquatic flora"
+a	00124685	0	0	underwater#2 submersed#2 submerged#2 subaqueous#1 subaquatic#1	growing or remaining under water; "viewing subaqueous fauna from a glass-bottomed boat"; "submerged leaves"
+a	00124918	0	0	terrestrial#3	operating or living or growing on land
+a	00125711	0	0.125	preceding#1	existing or coming before
+a	00126497	0	0	precedent#1	preceding in time, order, or significance
+a	00126702	0	0	premedical#2	preceding and preparing for the study of medicine; "premedical courses"
+a	00126830	0	0	propaedeutic#1 preparatory#1 preparative#1	preceding and preparing for something; "preparatory steps"
+a	00127296	0	0	succeeding#1	coming after or following
+a	00127543	0	0.375	consecutive#1 back-to-back#1	one after the other; "back-to-back home runs"
+a	00128262	0	0	postmortem#2	after death or after an event; "a postmortem examination to determine the cause of death"; "the postmortem discussion of the President's TV address"
+a	00129103	0	0.125	prenatal#1 antepartum#1 antenatal#1	occurring or existing before birth; "the prenatal period"; "antenatal care"
+a	00129276	0	0	perinatal#1	occurring during the period around birth (5 months before and 1 month after); "perinatal mortality"; "perinatal care"
+a	00129467	0	0.125	postpartum#1 postnatal#1	occurring immediately after birth; "postnatal development"
+a	00129612	0	0	preprandial#1	preceding a meal (especially dinner); "a preprandial drink"
+a	00129729	0	0	postprandial#1	following a meal (especially dinner); "his postprandial cigar"; "took a postprandial walk"
+a	00130017	0	0	postwar#1	belonging to the period after a war; "postwar resettlement"; "postwar inflation"
+a	00130412	0	0	antemeridian#1	before noon
+a	00130518	0	0	ante_meridiem#1 a.m.#1	before noon
+a	00130596	0	0	postmeridian#1	after noon
+a	00130701	0	0	post_meridiem#1 p.m.#1	after noon
+a	00131176	0	0	frontal#4	of or adjacent to the forehead or frontal bone; "the frontal lobes"
+a	00131297	0	0	prefrontal#1	anterior to a frontal structure; "a prefrontal bone"; "prefrontal lobes"
+a	00132040	0	0	retral#2	at or near or toward the posterior
+a	00134401	0	0.375	unapproachable#1	discouraging intimacies; reserved; "an unapproachable executive"
+a	00134562	0.125	0.625	standoffish#1 offish#1	lacking cordiality; unfriendly; "a standoffish manner"
+a	00135092	0	0	befitting#1	appropriate to; "behavior befitting a father"
+a	00135342	0.5	0	pat#2	exactly suited to the occasion; "a pat reply"
+a	00136727	0	0	collect#1 cod#1	payable by the recipient on delivery; "a collect call"; "the letter came collect"; "a COD parcel"
+a	00137277	0	0	receivable#1	awaiting payment; "accounts receivable"
+a	00137373	0	0	out-of-pocket#1	calling for the spending of cash; "his out-of-pocket costs were $10"
+a	00138169	0.5	0.125	apropos#1	of an appropriate or pertinent nature
+a	00138622	0.25	0.75	malapropos#1	of an inappropriate or incorrectly applied nature
+a	00138782	0.125	0.875	out_of_place#1 inapposite#1	of an inappropriate or misapplied nature
+a	00139126	0.125	0	a_posteriori#1	involving reasoning from facts or particulars to general principles or from effects to causes; "a posteriori demonstration"
+a	00140233	0	0	arbitrable#1	appropriate for or subject to settlement by arbitration; "an arbitrable wage and health benefits policy"; "an arbitrable dispute"
+a	00140989	0.375	0.25	columnar#2	characterized by columns; "columnar construction"
+a	00141647	0	0.25	astylar#1	lacking columns or pillars
+a	00141746	0.125	0.25	unpillared#1	lacking pillars
+a	00141818	0	0	tree-living#1 arboreous#1 arboreal#2	inhabiting or frequenting trees; "arboreal apes"
+a	00142040	0	0.125	sandy#2 sandlike#1 arenaceous#1	resembling or containing or abounding in sand; or growing in sandy areas; "arenaceous limestone"; "arenaceous grasses"
+a	00142270	0	0.125	clayey#1 argillaceous#1	resembling or containing clay; "argillaceous rocks"
+a	00142825	0	0	militarized#1 militarised#1	issued military arms
+a	00143201	0.125	0	barehanded#1	with bare hands; "fought barehanded"
+a	00143376	0	0.125	defenseless#3 defenceless#2	lacking weapons for self-defense
+a	00143516	0	0	weaponless#1	without a weapon
+a	00144020	0	0.5	bony-plated#1	covered with bony plates
+a	00144510	0	0.125	mailed#1 mail-clad#1	wearing protective mail
+a	00144877	0	0.125	armed#3	(used of plants and animals) furnished with bristles and thorns
+a	00145628	0.25	0.25	bristlelike#1	resembling a bristle
+a	00145706	0	0.125	brushlike#1	resembling a brush; "brushlike blue blooms"
+a	00145805	0.25	0.25	thistlelike#1	resembling a thistle
+a	00145883	0	0.25	taloned#1 clawed#2	(of predatory animals) armed with claws or talons
+a	00145995	0	0.625	unarmed#2	(used of plants or animals) lacking barbs or stings or thorns
+a	00146128	0.125	0.375	thornless#1 spineless#4	lacking thorns
+a	00146430	0	0.125	armlike#1	resembling an arm
+a	00147052	0	0.125	bone-covered#1	(of animals) armored with bone
+a	00147659	0	0.625	scaleless#1	destitute of scales
+a	00149861	0.25	0.625	artless#2	simple and natural; without cunning or deceit; "an artless manner"; "artless elegance"
+a	00150055	0.25	0.375	careless#2	effortless and unstudied; "an impression of careless elegance"; "danced with careless grace"
+a	00150505	0.375	0.125	smooth-spoken#1 silver-tongued#1 silver#4 fluent#2 facile#3 eloquent#1	expressing yourself readily, clearly, effectively; "able to dazzle with his facile tongue"; "silver speech"
+a	00150835	0.5	0	speech-endowed#1	capable of speech; "the speaking animal"
+a	00151530	0	0.75	aphasic#2	unable to speak because of a brain lesion
+a	00151855	0	0	silent#6 mute#2 dumb#4	unable to speak because of hereditary deafness
+a	00152629	0	0.625	speechless#1 dumb#2	temporarily incapable of speaking; "struck dumb"; "speechless with shock"
+a	00152896	0.5	0	speaking#1	capable of or involving speech or speaking; "human beings--the speaking animals"; "a speaking part in the play"
+a	00153789	0	0.5	unjointed#1	without joints or jointed segments
+a	00154163	0	0.5	shamed#2 dishonored#1 disgraced#1 discredited#2	suffering shame
+a	00154583	0.5	0.25	shamefaced#3 shamed#1 hangdog#1 guilty#2	showing a sense of guilt; "a guilty look"; "the hangdog and shamefaced air of the retreating enemy"- Eric Linklater
+a	00154837	0.5	0.25	sheepish#2 shamefaced#2	showing a sense of shame
+a	00156575	0.25	0	forceful#2 emphatic#3	forceful and definite in expression or action; "the document contained a particularly emphatic guarantee of religious liberty"
+a	00157268	0.125	0.25	self-effacing#1 retiring#3 reticent#3	reluctant to draw attention to yourself
+a	00158238	0	0	intended#2	future; betrothed; "his intended bride"
+a	00158332	0	0	involved#3	emotionally involved
+a	00158701	0.125	0	affixed#1	firmly attached; "the affixed labels"
+a	00158961	0	0	basifixed#1	attached by its base (as certain anthers to their filaments or stalks)
+a	00161065	0	0	stuck#1	caught or fixed; "stuck in the mud"
+a	00161878	0.125	0	clip-on#1	attachable by a clip; "clip-on earrings"; "a clip-on bow tie"
+a	00161993	0	0	tie-on#1	fastened by tying on; "tie-on labels"
+a	00164308	0.5	0	heedful#3 advertent#1	giving attention
+a	00164598	0.125	0.625	oversolicitous#1	excessively solicitous
+a	00164681	0.375	0.125	solicitous#2	showing hovering attentiveness; "solicitous about her health"; "made solicitous inquiries about our family"
+a	00165585	0.25	0.25	woolgathering#1 moony#2 dreamy#1	dreamy in mood or nature; "a woolgathering moment"
+a	00165943	0.375	0	oblivious#2 forgetful#3	failing to keep in mind; "forgetful of her responsibilities"; "oblivious old age"
+a	00167077	0.5	0	magnetic#5 charismatic#1	possessing an extraordinary ability to attract; "a charismatic leader"; "a magnetic personality"
+a	00168551	0.625	0.125	irresistible#2	overpoweringly attractive; "irresistible beauty"
+a	00168694	0.625	0	personable#1	(of persons) pleasant in appearance and personality
+a	00168910	0.5	0	prepossessing#1	creating a favorable impression; "strong and vigorous and of prepossessing appearance"
+a	00169432	0.375	0.25	plain#7 homely#1	lacking in physical beauty or proportion; "a homely child"; "several of the buildings were downright homely"; "a plain girl with a freckled face"
+a	00169692	0.125	0.25	subfusc#1	devoid of brightness or appeal; "a subfusc mining town"; "dark subfusc clothing"
+a	00170156	0.5	0	repulsive#2	possessing the ability to repel; "a repulsive force"
+a	00172172	0	0	credited#1	(usually followed by `to') given credit for; "an invention credited to Edison"
+a	00173764	0.375	0	hearable#1 audible#1	heard or perceptible by the ear; "he spoke in an audible whisper"
+a	00174150	0	0	sonic#2	relating to audible sound; "a sonic wave"
+a	00174379	0.125	0.5	unhearable#1 inaudible#1	impossible to hear; imperceptible by the ear; "an inaudible conversation"
+a	00174719	0.125	0	voiceless#3 breathed#1	uttered without voice; "could hardly hear her breathed plea, `Help me'"; "voiceless whispers"
+a	00177834	0.375	0	gracious#4	disposed to bestow favors; "thanks to the gracious gods"
+a	00178464	0.125	0.875	thunderous#2	extremely ominous; "world events of thunderous import"
+a	00178575	0	0.375	authorized#1 authorised#1	endowed with authority
+a	00178811	0	0	licensed#1 licenced#1 commissioned#2 accredited#1	given official approval to act; "an accredited college"; "commissioned broker"; "licensed pharmacist"; "authorized representative"
+a	00179035	0	0	sanctioned#3 approved#1	established by authority; given authoritative approval; "a list of approved candidates"
+a	00179190	0.125	0.125	glorified#1 canonized#1 canonised#1	accorded sacrosanct or authoritative standing
+a	00179676	0	0	self-appointed#1	designated or chosen by yourself; "a self-appointed guardian of public morals"
+a	00179815	0	0.25	unlicensed#1 unlicenced#1 unaccredited#1	lacking official approval
+a	00181162	0	0	self-produced#1 self-generated#2	originating from the self
+a	00181264	0	0.625	self-induced#2	brought about by yourself; "self-induced vomiting"
+a	00181476	0	0	automatic#1	operating with minimal human intervention; independent of external control; "automatic transmission"; "a budget deficit that caused automatic spending cuts"
+a	00181904	0.375	0	semiautomatic#2 self-loading#1 autoloading#1	(of firearms) capable of automatic loading and firing continuously; "an autoloading rifle"
+a	00182086	0	0	machine-driven#1 machine-controlled#1 automated#1	operated by automation; "an automated stoker"
+a	00182225	0	0	self-regulating#1 self-moving#1 self-activating#1 self-acting#1	designed to activate or move or regulate itself; "a self-activating sprinkler system"
+a	00182639	0	0	semiautomatic#1	partially automatic
+a	00182718	0.5	0	smart#7	capable of independent and apparently intelligent action; "smart weapons"
+a	00182843	0.125	0.375	manual#2	requiring human effort; "a manual transmission"
+a	00182961	0	0	non-automatic#1 hand-operated#1	operated by hand
